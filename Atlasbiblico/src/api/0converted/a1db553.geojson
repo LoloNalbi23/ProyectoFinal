@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.740891,
+          31.731791
+        ]
+      },
+      "properties": {
+        "name": "Bamoth / Khirbet el Quweiqiyeh",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.68742,
+          31.591311
+        ]
+      },
+      "properties": {
+        "name": "Bamoth / Jebel Ataruz",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.761261,
+          31.60634
+        ]
+      },
+      "properties": {
+        "name": "Bamoth / Khirbet Libb",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

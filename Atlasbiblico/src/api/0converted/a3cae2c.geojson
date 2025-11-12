@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.402874,
+          14.213898
+        ]
+      },
+      "properties": {
+        "name": "Sephar / Zafar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.130865,
+          17.006157
+        ]
+      },
+      "properties": {
+        "name": "Sephar / Al Baleed",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

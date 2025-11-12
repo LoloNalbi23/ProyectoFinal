@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.563468,
+              14.217756
+            ],
+            [
+              44.551146,
+              14.210464
+            ],
+            [
+              44.55175,
+              14.184225
+            ],
+            [
+              44.569095,
+              14.172659
+            ],
+            [
+              44.61666,
+              14.181109
+            ],
+            [
+              44.614868,
+              14.226582
+            ],
+            [
+              44.599511,
+              14.215841
+            ],
+            [
+              44.563468,
+              14.217756
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Azal",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.58473,
+          14.19494
+        ]
+      },
+      "properties": {
+        "name": "Azal",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

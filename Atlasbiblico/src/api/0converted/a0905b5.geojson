@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.62118,
+          32.1966
+        ]
+      },
+      "properties": {
+        "name": "Succoth 1 / Tell Deir Alla",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.59396,
+          32.19321
+        ]
+      },
+      "properties": {
+        "name": "Succoth 1 / Tell el Ekhsas",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

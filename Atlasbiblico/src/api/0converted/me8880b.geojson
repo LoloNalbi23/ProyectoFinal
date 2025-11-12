@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7,
+          29.96667
+        ]
+      },
+      "properties": {
+        "name": "Bir Mara",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    }
+  ]
+}

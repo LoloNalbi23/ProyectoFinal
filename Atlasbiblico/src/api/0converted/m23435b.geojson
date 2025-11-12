@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.381264,
+          32.636478
+        ]
+      },
+      "properties": {
+        "name": "Indur",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

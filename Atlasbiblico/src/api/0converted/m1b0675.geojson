@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.344494,
+          32.712202
+        ]
+      },
+      "properties": {
+        "name": "Ayun esh Sha'in",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.61899,
+          32.75616
+        ]
+      },
+      "properties": {
+        "name": "Nobah 2 / Qanawat",
+        "description": "another name for Nobah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.348611,
+          32.686111
+        ]
+      },
+      "properties": {
+        "name": "Nobah 2 / Krak Canatha",
+        "description": "another name for Nobah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.837654,
+          32.032589
+        ]
+      },
+      "properties": {
+        "name": "Nobah 2 / Tell Safut",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

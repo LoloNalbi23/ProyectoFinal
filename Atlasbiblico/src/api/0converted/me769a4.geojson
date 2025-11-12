@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.591633,
+              37.35148
+            ],
+            [
+              40.953187,
+              37.198132
+            ],
+            [
+              41.410532,
+              37.184623
+            ],
+            [
+              41.74894,
+              37.271998
+            ],
+            [
+              41.820275,
+              37.412775
+            ],
+            [
+              41.793617,
+              37.595575
+            ],
+            [
+              41.305801,
+              37.646301
+            ],
+            [
+              40.87306,
+              37.619533
+            ],
+            [
+              40.460303,
+              37.50163
+            ],
+            [
+              40.591633,
+              37.35148
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Kaiyara",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.0344,
+          37.3014
+        ]
+      },
+      "properties": {
+        "name": "El Kaiyara",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

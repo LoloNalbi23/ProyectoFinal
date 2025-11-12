@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.809062,
+          31.800811
+        ]
+      },
+      "properties": {
+        "name": "Bath-rabbim / in Tell Hesban",
+        "description": "in Heshbon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.856843,
+          31.71663
+        ]
+      },
+      "properties": {
+        "name": "Bath-rabbim / in Tall Jalul",
+        "description": "in Heshbon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8881,
+          31.8686
+        ]
+      },
+      "properties": {
+        "name": "Bath-rabbim / in Tall al Umayri",
+        "description": "in Heshbon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.576089,
+              37.215947
+            ],
+            [
+              32.572931,
+              36.530523
+            ],
+            [
+              33.402547,
+              36.373192
+            ],
+            [
+              34.125038,
+              36.692386
+            ],
+            [
+              35.586559,
+              37.590959
+            ],
+            [
+              36.383546,
+              37.608971
+            ],
+            [
+              37.42179,
+              37.489659
+            ],
+            [
+              38.878854,
+              38.075685
+            ],
+            [
+              41.325283,
+              38.069142
+            ],
+            [
+              41.227276,
+              38.834219
+            ],
+            [
+              37.481177,
+              38.173615
+            ],
+            [
+              35.976957,
+              38.323621
+            ],
+            [
+              33.601102,
+              37.08667
+            ],
+            [
+              30.674905,
+              37.99345
+            ],
+            [
+              30.576089,
+              37.215947
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Taurus Mountains",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.861389,
+          37.694167
+        ]
+      },
+      "properties": {
+        "name": "Taurus Mountains",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

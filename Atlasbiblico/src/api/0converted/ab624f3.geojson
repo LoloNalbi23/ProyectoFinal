@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.797404,
+          31.281372
+        ]
+      },
+      "properties": {
+        "name": "Bor-ashan / Khirbet Asan",
+        "description": "another name for Ashan",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9098,
+          31.4558
+        ]
+      },
+      "properties": {
+        "name": "Bor-ashan / Tell Beit Mirsim",
+        "description": "another name for Ashan",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.916611,
+          31.633361
+        ]
+      },
+      "properties": {
+        "name": "Bor-ashan / Tel Goded",
+        "description": "another name for Ashan",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.646389,
+          31.29
+        ]
+      },
+      "properties": {
+        "name": "Bor-ashan / Khirbet Muleh",
+        "description": "another name for Ashan",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

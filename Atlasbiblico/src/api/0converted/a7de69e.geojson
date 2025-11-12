@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.516378,
+              32.824081
+            ],
+            [
+              35.543429,
+              32.869915
+            ],
+            [
+              35.50442,
+              32.868939
+            ],
+            [
+              35.48292,
+              32.850893
+            ],
+            [
+              35.516378,
+              32.824081
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Gennesaret / El Ghuweir",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.507222,
+          32.860556
+        ]
+      },
+      "properties": {
+        "name": "Gennesaret / El Ghuweir",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

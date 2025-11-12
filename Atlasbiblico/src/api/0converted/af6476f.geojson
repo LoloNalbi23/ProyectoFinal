@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.195,
+          32.276111
+        ]
+      },
+      "properties": {
+        "name": "Shamir 2 / Samaria",
+        "description": "another name for Samaria 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27457,
+          32.11045
+        ]
+      },
+      "properties": {
+        "name": "Shamir 2 / Khirbet Samara",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9265,
+          31.4355
+        ]
+      },
+      "properties": {
+        "name": "Shamir 2 / Khirbet al Bira",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9318,
+          31.4184
+        ]
+      },
+      "properties": {
+        "name": "Shamir 2 / Khirbet Sumara",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9549,
+          31.4121
+        ]
+      },
+      "properties": {
+        "name": "Shamir 2 / Khirbet Anab es Seghireh",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9308,
+          31.3959
+        ]
+      },
+      "properties": {
+        "name": "Shamir 2 / Khirbet Anab al Kabir",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9826,
+          31.4887
+        ]
+      },
+      "properties": {
+        "name": "Shamir 2 / Khirbet Fuqeiqis",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.033694,
+          31.421683
+        ]
+      },
+      "properties": {
+        "name": "Shamir 2 / Khirbet al Simia",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.202,
+          31.9121
+        ]
+      },
+      "properties": {
+        "name": "Shamir 2 / Khirbet Raddana",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.973333,
+          28.539722
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Jebel Musa",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.967222,
+          28.555556
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Ras es Safsafeh",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.961,
+          29.671
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Jebel Sin Bishar",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75,
+          30.283333
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Har Karkom",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.651667,
+          28.646389
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Jebel Serbal",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.955278,
+          28.510833
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Jebel Katherina",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.028889,
+          30.653056
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Jebel Halal",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.305833,
+          28.654167
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Jabal al Lawz",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.633411,
+          29.669217
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Jebel Hashem el Tarif",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.376667,
+          30.702222
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Jabal al Magharah",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.523056,
+          30.351111
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Jebel Yeleq",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7334,
+          30.4265
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Har ‘Arif",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2925,
+          28.3405
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Al Manifa",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6572,
+          27.9607
+        ]
+      },
+      "properties": {
+        "name": "Mount Horeb / Jabal Harb",
+        "description": "another name for Mount Sinai",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.023611,
+          31.841111
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Yalo",
+        "description": "another name for Elon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.997106,
+          31.746288
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Khirbet Wadi Illin",
+        "description": "another name for Elon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0263,
+          31.8401
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Tell el Kokah",
+        "description": "another name for Elon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.024586,
+          31.79826
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Alein",
+        "description": "another name for Elon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.868056,
+          32.027222
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Kafr Ana",
+        "description": "another name for Elon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.938805,
+          31.800271
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Tel Zelafon",
+        "description": "another name for Elon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.962494,
+          31.79709
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Khirbet Hasan",
+        "description": "another name for Elon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.989318,
+          31.929967
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Khirbet el Rujm",
+        "description": "another name for Elon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.270379,
+          31.905169
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Khirbet Haiyan",
+        "description": "another name for Elon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.023611,
+          31.841111
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Yalo",
+        "description": "another name for Aijalon 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0263,
+          31.8401
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Tell el Kokah",
+        "description": "another name for Aijalon 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.270379,
+          31.905169
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Khirbet Haiyan",
+        "description": "another name for Aijalon 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.110556,
+          31.852778
+        ]
+      },
+      "properties": {
+        "name": "Elonbeth-hanan / Beit Anan",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

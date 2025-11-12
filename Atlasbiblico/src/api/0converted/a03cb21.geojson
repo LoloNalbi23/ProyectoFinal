@@ -1,0 +1,254 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.26807,
+          31.86921
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Tell Maryam",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.261111,
+          31.916944
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Et Tell",
+        "description": "another name for Ai 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2496,
+          31.91476
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Khirbet el Maqatir",
+        "description": "another name for Ai 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.228619,
+          31.897515
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Khirbet Nisieh",
+        "description": "another name for Ai 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2464,
+          31.9125
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Khirbet Ibn Baraq",
+        "description": "another name for Ai 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.270379,
+          31.905169
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Khirbet Haiyan",
+        "description": "another name for Ai 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.254167,
+          31.895833
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Burqa",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.228619,
+          31.897515
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Khirbet Nisieh",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.241389,
+          31.922778
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Beitin",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.261111,
+          31.916944
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Et Tell",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.114167,
+          31.885833
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Beit Ur al Fauqa",
+        "description": "another name for Upper Beth-horon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.229,
+          31.9224
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / El Q’ada",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.241389,
+          31.922778
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Beitin",
+        "description": "another name for Beth-aven 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.214958,
+          31.905142
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Al Bira",
+        "description": "another name for Beth-aven 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.245478,
+          31.921866
+        ]
+      },
+      "properties": {
+        "name": "Beth-aven 1 / Burj Beitin",
+        "description": "another name for Beth-aven 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

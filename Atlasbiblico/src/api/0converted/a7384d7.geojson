@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.896882,
+          29.492468
+        ]
+      },
+      "properties": {
+        "name": "Jotbathah / Taba",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0965,
+          29.85878
+        ]
+      },
+      "properties": {
+        "name": "Jotbathah / Et Taba",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.043611,
+          29.879167
+        ]
+      },
+      "properties": {
+        "name": "Jotbathah / Ein Yotvata",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19,
+          30.616667
+        ]
+      },
+      "properties": {
+        "name": "Jotbathah / Ein Weibeh",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    }
+  ]
+}

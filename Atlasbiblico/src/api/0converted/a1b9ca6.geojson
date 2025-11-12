@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.97907,
+          31.15214
+        ]
+      },
+      "properties": {
+        "name": "Aroer 3 / Khirbet Aro’er",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.975175,
+          31.169025
+        ]
+      },
+      "properties": {
+        "name": "Aroer 3 / Tel Esdar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.819389,
+          31.4708
+        ]
+      },
+      "properties": {
+        "name": "Aroer 3 / Arair",
+        "description": "another name for Aroer 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.925091,
+          31.924568
+        ]
+      },
+      "properties": {
+        "name": "Aroer 3 / Umm Sweiwineh",
+        "description": "another name for Aroer 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.871319,
+          31.97016
+        ]
+      },
+      "properties": {
+        "name": "Aroer 3 / Khirbet Udena",
+        "description": "another name for Aroer 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.920658,
+          31.989281
+        ]
+      },
+      "properties": {
+        "name": "Aroer 3 / Erjan",
+        "description": "another name for Aroer 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.819389,
+          31.4708
+        ]
+      },
+      "properties": {
+        "name": "Aroer 3 / Arair",
+        "description": "another name for Aroer 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

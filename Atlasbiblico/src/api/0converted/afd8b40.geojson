@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2721,
+          31.73333
+        ]
+      },
+      "properties": {
+        "name": "Harod 2 / Khirbet el Harazan",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.355833,
+          32.548611
+        ]
+      },
+      "properties": {
+        "name": "Harod 2 / Well of Harod",
+        "description": "another name for Harod 1",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    }
+  ]
+}

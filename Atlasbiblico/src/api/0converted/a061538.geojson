@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.459722,
+          32.799722
+        ]
+      },
+      "properties": {
+        "name": "Zer / Qarn Hattin",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.432354,
+          33.076777
+        ]
+      },
+      "properties": {
+        "name": "Zer / Tell el Khirbeh",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.438081,
+          32.982086
+        ]
+      },
+      "properties": {
+        "name": "Zer / Meiron",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.443889,
+          33.101111
+        ]
+      },
+      "properties": {
+        "name": "Zer / Maroun al Ras",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.461143,
+          32.79944
+        ]
+      },
+      "properties": {
+        "name": "Zer / Khirbet Madin",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.442778,
+          33.125833
+        ]
+      },
+      "properties": {
+        "name": "Zer / Bint Jbeil",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.417222,
+          33.088889
+        ]
+      },
+      "properties": {
+        "name": "Zer / Khirbet el Biar",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.528333,
+          33.075833
+        ]
+      },
+      "properties": {
+        "name": "Zer / Har Zevi",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.196111,
+          33.270833
+        ]
+      },
+      "properties": {
+        "name": "Zer / Tyre",
+        "description": "another name for Tyre",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.459722,
+          32.799722
+        ]
+      },
+      "properties": {
+        "name": "Zer / Qarn Hattin",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.84694,
+          31.69972
+        ]
+      },
+      "properties": {
+        "name": "Metheg-ammah / Tell es Safi",
+        "description": "another name for Gath 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6816,
+          31.3912
+        ]
+      },
+      "properties": {
+        "name": "Metheg-ammah / Tell esh Sharia",
+        "description": "another name for Gath 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.88994,
+          31.90302
+        ]
+      },
+      "properties": {
+        "name": "Metheg-ammah / Ras Abu Hamid",
+        "description": "another name for Gath 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78622,
+          31.61209
+        ]
+      },
+      "properties": {
+        "name": "Metheg-ammah / Tel Erani",
+        "description": "another name for Gath 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6065,
+          31.3821
+        ]
+      },
+      "properties": {
+        "name": "Metheg-ammah / Tel Haror",
+        "description": "another name for Gath 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7583,
+          31.50259
+        ]
+      },
+      "properties": {
+        "name": "Metheg-ammah / Tel Nagila",
+        "description": "another name for Gath 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

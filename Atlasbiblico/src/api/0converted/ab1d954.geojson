@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.565833,
+          31.031111
+        ]
+      },
+      "properties": {
+        "name": "Rehoboth 1 / Ruheibeh",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    }
+  ]
+}

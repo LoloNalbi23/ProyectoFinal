@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.566869,
+              31.003574
+            ],
+            [
+              35.454466,
+              31.015878
+            ],
+            [
+              35.431987,
+              30.640987
+            ],
+            [
+              35.549878,
+              30.635848
+            ],
+            [
+              35.566869,
+              31.003574
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "between Punon and Zered",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.458842,
+          30.939606
+        ]
+      },
+      "properties": {
+        "name": "between Punon and Zered",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

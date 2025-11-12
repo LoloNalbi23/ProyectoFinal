@@ -1,0 +1,193 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.171389,
+          30.860556
+        ]
+      },
+      "properties": {
+        "name": "Baal-zephon / Tell Defenneh",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.067,
+          31.21373
+        ]
+      },
+      "properties": {
+        "name": "Baal-zephon / Zahr al Qais",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.66,
+          31.044722
+        ]
+      },
+      "properties": {
+        "name": "Baal-zephon / Al Mahamdiyah",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.701667,
+          29.952222
+        ]
+      },
+      "properties": {
+        "name": "Baal-zephon / Jabal al Murr",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.298611,
+          30.326111
+        ]
+      },
+      "properties": {
+        "name": "Baal-zephon / Fayid",
+        "description": "another name for Arsinoe",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.151423,
+              30.541025
+            ],
+            [
+              32.303059,
+              30.537701
+            ],
+            [
+              32.269349,
+              30.586511
+            ],
+            [
+              32.151363,
+              30.588492
+            ],
+            [
+              32.151423,
+              30.541025
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Baal-zephon / in the region between Maghfar and Lake Timsah",
+        "description": "another name for Arsinoe",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.266667,
+          30.566667
+        ]
+      },
+      "properties": {
+        "name": "Baal-zephon / in the region between Maghfar and Lake Timsah",
+        "description": "another name for Arsinoe",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.46951,
+          30.22518
+        ]
+      },
+      "properties": {
+        "name": "Baal-zephon / Kibrit",
+        "description": "another name for Arsinoe",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.552904,
+          29.974189
+        ]
+      },
+      "properties": {
+        "name": "Baal-zephon / Tall al Qulzum",
+        "description": "another name for Arsinoe",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3075,
+          29.996111
+        ]
+      },
+      "properties": {
+        "name": "Baal-zephon / Jabal Ataqah",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.97907,
+          31.15214
+        ]
+      },
+      "properties": {
+        "name": "Adadah / Khirbet Aro’er",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.97907,
+          31.15214
+        ]
+      },
+      "properties": {
+        "name": "Adadah / Khirbet Aro’er",
+        "description": "another name for Aroer 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.819389,
+          31.4708
+        ]
+      },
+      "properties": {
+        "name": "Adadah / Arair",
+        "description": "another name for Aroer 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.975175,
+          31.169025
+        ]
+      },
+      "properties": {
+        "name": "Adadah / Tel Esdar",
+        "description": "another name for Aroer 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.925091,
+          31.924568
+        ]
+      },
+      "properties": {
+        "name": "Adadah / Umm Sweiwineh",
+        "description": "another name for Aroer 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.871319,
+          31.97016
+        ]
+      },
+      "properties": {
+        "name": "Adadah / Khirbet Udena",
+        "description": "another name for Aroer 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.920658,
+          31.989281
+        ]
+      },
+      "properties": {
+        "name": "Adadah / Erjan",
+        "description": "another name for Aroer 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.39448,
+              31.760907
+            ],
+            [
+              35.349157,
+              31.699308
+            ],
+            [
+              35.386923,
+              31.689454
+            ],
+            [
+              35.418167,
+              31.75263
+            ],
+            [
+              35.39448,
+              31.760907
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Al Buqay'ah",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.38333,
+          31.71667
+        ]
+      },
+      "properties": {
+        "name": "Al Buqay'ah",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

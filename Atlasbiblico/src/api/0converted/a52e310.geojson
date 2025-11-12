@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19727,
+          31.85794
+        ]
+      },
+      "properties": {
+        "name": "Gederah 2 / Jedireh",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.996117,
+          31.688903
+        ]
+      },
+      "properties": {
+        "name": "Gederah 2 / Khirbet Judraya",
+        "description": "another name for Gederah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.916611,
+          31.633361
+        ]
+      },
+      "properties": {
+        "name": "Gederah 2 / Tel Goded",
+        "description": "another name for Gederah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.95892,
+          31.82744
+        ]
+      },
+      "properties": {
+        "name": "Gederah 2 / Khirbet Jedireh",
+        "description": "another name for Gederah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.777744,
+          31.822936
+        ]
+      },
+      "properties": {
+        "name": "Gederah 2 / Qatra",
+        "description": "another name for Gederah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19727,
+          31.85794
+        ]
+      },
+      "properties": {
+        "name": "Gederah 2 / Jedireh",
+        "description": "another name for Gederah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09229,
+          31.86725
+        ]
+      },
+      "properties": {
+        "name": "Gederah 2 / Khirbet Judeira",
+        "description": "another name for Gederah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09229,
+          31.86725
+        ]
+      },
+      "properties": {
+        "name": "Gederah 2 / Khirbet Judeira",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.521389,
+          32.595556
+        ]
+      },
+      "properties": {
+        "name": "Jarmuth 2 / Kokab el Hawa",
+        "description": "another name for Ramoth 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.525556,
+          32.590278
+        ]
+      },
+      "properties": {
+        "name": "Jarmuth 2 / En haYadid",
+        "description": "another name for Ramoth 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.537236,
+          32.659741
+        ]
+      },
+      "properties": {
+        "name": "Jarmuth 2 / Khirbet ed Dir",
+        "description": "another name for Ramoth 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.521389,
+          32.595556
+        ]
+      },
+      "properties": {
+        "name": "Jarmuth 2 / Kokab el Hawa",
+        "description": "another name for Remeth",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.537236,
+          32.659741
+        ]
+      },
+      "properties": {
+        "name": "Jarmuth 2 / Khirbet ed Dir",
+        "description": "another name for Remeth",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.525556,
+          32.590278
+        ]
+      },
+      "properties": {
+        "name": "Jarmuth 2 / En haYadid",
+        "description": "another name for Remeth",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.521389,
+          32.595556
+        ]
+      },
+      "properties": {
+        "name": "Jarmuth 2 / Kokab el Hawa",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

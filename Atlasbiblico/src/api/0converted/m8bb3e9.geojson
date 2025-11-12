@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.921218,
+              32.606457
+            ],
+            [
+              34.921048,
+              32.588995
+            ],
+            [
+              34.917277,
+              32.55721
+            ],
+            [
+              34.916155,
+              32.529075
+            ],
+            [
+              34.921605,
+              32.524206
+            ],
+            [
+              34.928063,
+              32.530046
+            ],
+            [
+              34.931417,
+              32.565839
+            ],
+            [
+              34.921218,
+              32.606457
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kebara Swamps",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.924639,
+          32.556667
+        ]
+      },
+      "properties": {
+        "name": "Kebara Swamps",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

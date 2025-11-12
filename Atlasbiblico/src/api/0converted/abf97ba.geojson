@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.934444,
+          29.085556
+        ]
+      },
+      "properties": {
+        "name": "Hanes / Ihnasiyyah al Madinah",
+        "description": "another name for Heracleopolis Magna",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.175556,
+          30.978056
+        ]
+      },
+      "properties": {
+        "name": "Hanes / Tell Belim",
+        "description": "another name for Heracleopolis Parva",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.171389,
+          30.860556
+        ]
+      },
+      "properties": {
+        "name": "Hanes / Tell Defenneh",
+        "description": "another name for Tahpanhes",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.88,
+          30.976944
+        ]
+      },
+      "properties": {
+        "name": "Hanes / Tanis",
+        "description": "another name for Zoan",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

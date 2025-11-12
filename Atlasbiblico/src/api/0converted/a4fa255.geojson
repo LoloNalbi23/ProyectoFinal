@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.422222,
+          30.648333
+        ]
+      },
+      "properties": {
+        "name": "Kedesh 2 / Ain el Qudeirat",
+        "description": "another name for Kadesh-barnea",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.484081,
+          30.583378
+        ]
+      },
+      "properties": {
+        "name": "Kedesh 2 / Ein Qedeis",
+        "description": "another name for Kadesh-barnea",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

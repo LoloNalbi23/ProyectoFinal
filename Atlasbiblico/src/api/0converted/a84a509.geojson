@@ -1,0 +1,258 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.459969,
+          31.881883
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Khirbet el Mefjir",
+        "description": "another name for Gilgal 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.225,
+          32.030556
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Jiljilyya",
+        "description": "another name for Gilgal 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.48747,
+          31.85032
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Khirbet en Nitleh",
+        "description": "another name for Gilgal 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45567,
+          31.88161
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Suwwanet eth Thaniya",
+        "description": "another name for Gilgal 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3707,
+          32.24925
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / El ’Unuq",
+        "description": "another name for Gilgal 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45883,
+          31.87394
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Tell el Jurn",
+        "description": "another name for Gilgal 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.515486,
+          32.159929
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Bedhat esh Sha’ab",
+        "description": "another name for Gilgal 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.459969,
+          31.881883
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Khirbet el Mefjir",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.48747,
+          31.85032
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Khirbet en Nitleh",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3707,
+          32.24925
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / El ’Unuq",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45567,
+          31.88161
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Suwwanet eth Thaniya",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45883,
+          31.87394
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Tell el Jurn",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.515486,
+          32.159929
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Bedhat esh Sha’ab",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30698,
+          32.19836
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / Khirbet Ibn Naser",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3707,
+          32.24925
+        ]
+      },
+      "properties": {
+        "name": "Gilgal 4 / El ’Unuq",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.49181,
+          31.00669
+        ]
+      },
+      "properties": {
+        "name": "Lebaoth / Jebel el Biri",
+        "description": "another name for Beth-biri",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.511601,
+          31.305328
+        ]
+      },
+      "properties": {
+        "name": "Lebaoth / Ein esh Shallala",
+        "description": "another name for Beth-biri",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.49181,
+          31.00669
+        ]
+      },
+      "properties": {
+        "name": "Lebaoth / Jebel el Biri",
+        "description": "another name for Beth-lebaoth",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.511601,
+          31.305328
+        ]
+      },
+      "properties": {
+        "name": "Lebaoth / Ein esh Shallala",
+        "description": "another name for Beth-lebaoth",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

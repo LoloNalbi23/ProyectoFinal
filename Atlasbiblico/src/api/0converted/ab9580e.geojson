@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.235985,
+          31.767198
+        ]
+      },
+      "properties": {
+        "name": "Dragon Spring / Bir Ayub",
+        "description": "another name for En-rogel",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.248031,
+          31.798128
+        ]
+      },
+      "properties": {
+        "name": "Dragon Spring / Ain el Madauwerah",
+        "description": "another name for En-rogel",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.236383,
+          31.772919
+        ]
+      },
+      "properties": {
+        "name": "Dragon Spring / Gihon Spring",
+        "description": "another name for En-rogel",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.236383,
+          31.772919
+        ]
+      },
+      "properties": {
+        "name": "Dragon Spring / Gihon Spring",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.234167,
+          31.776667
+        ]
+      },
+      "properties": {
+        "name": "Dragon Spring / in Jerusalem",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.235,
+          31.770556
+        ]
+      },
+      "properties": {
+        "name": "Dragon Spring / Pool of Siloam",
+        "description": "another name for Siloam",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    }
+  ]
+}

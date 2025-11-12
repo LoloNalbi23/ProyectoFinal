@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.02757,
+          31.7355
+        ]
+      },
+      "properties": {
+        "name": "Shaaraim 1 / Khirbet es Sira",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4041,
+          31.467
+        ]
+      },
+      "properties": {
+        "name": "Shaaraim 1 / Tall al Ajjul",
+        "description": "another name for Shaaraim 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4825,
+          31.281944
+        ]
+      },
+      "properties": {
+        "name": "Shaaraim 1 / Tel Sharuhen",
+        "description": "another name for Shaaraim 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6065,
+          31.3821
+        ]
+      },
+      "properties": {
+        "name": "Shaaraim 1 / Tel Haror",
+        "description": "another name for Shaaraim 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.86564,
+          31.38333
+        ]
+      },
+      "properties": {
+        "name": "Shaaraim 1 / Tel Halif",
+        "description": "another name for Shaaraim 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9575,
+          31.6963
+        ]
+      },
+      "properties": {
+        "name": "Shaaraim 1 / Khirbet Qeiyafa",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

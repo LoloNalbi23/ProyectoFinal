@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.240556,
+          34.229444
+        ]
+      },
+      "properties": {
+        "name": "Hazer-hatticon / Al Qaryatayn",
+        "description": "another name for Hazar-enan",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.830278,
+          33.279444
+        ]
+      },
+      "properties": {
+        "name": "Hazer-hatticon / Hader",
+        "description": "another name for Hazar-enan",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

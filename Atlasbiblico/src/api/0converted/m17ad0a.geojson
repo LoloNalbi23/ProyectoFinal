@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.22182,
+              32.531582
+            ],
+            [
+              35.264726,
+              32.487244
+            ],
+            [
+              35.303931,
+              32.469138
+            ],
+            [
+              35.324806,
+              32.498956
+            ],
+            [
+              35.326957,
+              32.552777
+            ],
+            [
+              35.22182,
+              32.531582
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "southern Jezreel Valley",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.289167,
+          32.503056
+        ]
+      },
+      "properties": {
+        "name": "southern Jezreel Valley",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

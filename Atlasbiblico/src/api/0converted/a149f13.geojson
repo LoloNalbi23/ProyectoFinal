@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.883215,
+              32.562013
+            ],
+            [
+              34.855042,
+              32.412566
+            ],
+            [
+              34.741444,
+              32.044753
+            ],
+            [
+              34.59465,
+              31.777872
+            ],
+            [
+              34.484398,
+              31.617956
+            ],
+            [
+              34.539955,
+              31.211483
+            ],
+            [
+              35.450015,
+              31.243866
+            ],
+            [
+              35.55086,
+              31.531459
+            ],
+            [
+              35.647488,
+              31.595129
+            ],
+            [
+              35.596268,
+              32.711386
+            ],
+            [
+              35.645996,
+              32.866567
+            ],
+            [
+              35.628623,
+              33.104068
+            ],
+            [
+              34.883215,
+              32.562013
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Judea 1 / Judea 1",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.234167,
+          31.776667
+        ]
+      },
+      "properties": {
+        "name": "Judea 1 / Judea 1",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

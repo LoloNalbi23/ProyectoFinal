@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.447294,
+              34.592226
+            ],
+            [
+              36.389896,
+              34.366968
+            ],
+            [
+              36.269973,
+              34.189205
+            ],
+            [
+              36.065164,
+              34.026544
+            ],
+            [
+              36.283093,
+              33.991685
+            ],
+            [
+              36.322496,
+              34.140213
+            ],
+            [
+              36.727853,
+              34.502468
+            ],
+            [
+              36.447294,
+              34.592226
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "between Baalbek and Kadesh",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.415556,
+          34.363889
+        ]
+      },
+      "properties": {
+        "name": "between Baalbek and Kadesh",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

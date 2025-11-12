@@ -1,0 +1,222 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77702,
+          32.118511
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Jel‘ad",
+        "description": "another name for Mizpah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.014988,
+          32.499852
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Tall er Rumeith",
+        "description": "another name for Mizpah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.761295,
+          32.131192
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Khirbet er Rasuni",
+        "description": "another name for Mizpah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.83713,
+          32.31372
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Suf",
+        "description": "another name for Mizpah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77702,
+          32.118511
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Jel‘ad",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.014988,
+          32.499852
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Tall er Rumeith",
+        "description": "another name for Ramoth-gilead",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.880421,
+          32.491014
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Tall al Husun",
+        "description": "another name for Ramoth-gilead",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.006944,
+          32.559167
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Ar Ramtha",
+        "description": "another name for Ramoth-gilead",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.733333,
+          32.033333
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / As Salt",
+        "description": "another name for Ramoth-gilead",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7518,
+          31.9128
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Iraq al Amir",
+        "description": "another name for Ramoth-gilead",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8167,
+          31.873
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Khirbet el Qar’a",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.830077,
+          31.944471
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Khirbet Sara",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7518,
+          31.9128
+        ]
+      },
+      "properties": {
+        "name": "Ramath-mizpeh / Iraq al Amir",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

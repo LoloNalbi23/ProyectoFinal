@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.310556,
+          32.788056
+        ]
+      },
+      "properties": {
+        "name": "Rimmono / Rumana",
+        "description": "another name for Rimmon 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29321,
+          32.78892
+        ]
+      },
+      "properties": {
+        "name": "Rimmono / Horbat Rumah",
+        "description": "another name for Rimmon 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.256944,
+          32.785556
+        ]
+      },
+      "properties": {
+        "name": "Rimmono / Tel Hanaton",
+        "description": "another name for Rimmon 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.459722,
+          32.799722
+        ]
+      },
+      "properties": {
+        "name": "Rimmono / Qarn Hattin",
+        "description": "another name for Rimmon 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.234167,
+          31.776667
+        ]
+      },
+      "properties": {
+        "name": "Shallecheth / in Jerusalem",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.234167,
+          31.776667
+        ]
+      },
+      "properties": {
+        "name": "Shallecheth / in Jerusalem",
+        "description": "another name for the Gate of the Foundation",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.234167,
+          31.776667
+        ]
+      },
+      "properties": {
+        "name": "Shallecheth / in Jerusalem",
+        "description": "another name for Sur",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.234167,
+          31.776667
+        ]
+      },
+      "properties": {
+        "name": "Shallecheth / in Jerusalem",
+        "description": "another name for the Middle Gate",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.231839,
+          31.776414
+        ]
+      },
+      "properties": {
+        "name": "Shallecheth / Israelite Tower",
+        "description": "another name for the Middle Gate",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

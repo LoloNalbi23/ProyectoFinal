@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.223983,
+              32.521426
+            ],
+            [
+              35.241922,
+              32.538288
+            ],
+            [
+              35.235226,
+              32.5663
+            ],
+            [
+              35.217928,
+              32.585327
+            ],
+            [
+              35.202894,
+              32.592342
+            ],
+            [
+              35.185306,
+              32.585607
+            ],
+            [
+              35.17699,
+              32.572289
+            ],
+            [
+              35.178294,
+              32.557863
+            ],
+            [
+              35.18627,
+              32.551377
+            ],
+            [
+              35.197685,
+              32.546128
+            ],
+            [
+              35.210721,
+              32.542298
+            ],
+            [
+              35.201695,
+              32.528875
+            ],
+            [
+              35.223983,
+              32.521426
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "plain between Taanach and Megiddo",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.216031,
+          32.55949
+        ]
+      },
+      "properties": {
+        "name": "plain between Taanach and Megiddo",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

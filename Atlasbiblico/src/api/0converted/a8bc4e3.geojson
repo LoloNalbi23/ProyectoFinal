@@ -1,0 +1,191 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.529871,
+          33.032197
+        ]
+      },
+      "properties": {
+        "name": "Meroz / Khirbet Marus",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.213333,
+          32.703889
+        ]
+      },
+      "properties": {
+        "name": "Meroz / Tel Shimron",
+        "description": "another name for Shimron-meron",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.443889,
+          33.101111
+        ]
+      },
+      "properties": {
+        "name": "Meroz / Maroun al Ras",
+        "description": "another name for Shimron-meron",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.432354,
+          33.076777
+        ]
+      },
+      "properties": {
+        "name": "Meroz / Tell el Khirbeh",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.459722,
+          32.799722
+        ]
+      },
+      "properties": {
+        "name": "Meroz / Qarn Hattin",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.438081,
+          32.982086
+        ]
+      },
+      "properties": {
+        "name": "Meroz / Meiron",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.443889,
+          33.101111
+        ]
+      },
+      "properties": {
+        "name": "Meroz / Maroun al Ras",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.442778,
+          33.125833
+        ]
+      },
+      "properties": {
+        "name": "Meroz / Bint Jbeil",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.417222,
+          33.088889
+        ]
+      },
+      "properties": {
+        "name": "Meroz / Khirbet el Biar",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.528333,
+          33.075833
+        ]
+      },
+      "properties": {
+        "name": "Meroz / Har Zevi",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.461143,
+          32.79944
+        ]
+      },
+      "properties": {
+        "name": "Meroz / Khirbet Madin",
+        "description": "another name for Madon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

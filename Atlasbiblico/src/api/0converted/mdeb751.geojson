@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.995152,
+              29.527155
+            ],
+            [
+              35.319641,
+              29.462807
+            ],
+            [
+              35.427177,
+              29.766464
+            ],
+            [
+              35.126289,
+              29.836618
+            ],
+            [
+              34.995152,
+              29.527155
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "region northeast of the Gulf of Aqaba",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.31211,
+          29.71432
+        ]
+      },
+      "properties": {
+        "name": "region northeast of the Gulf of Aqaba",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

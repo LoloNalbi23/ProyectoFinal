@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.001006,
+          31.748796
+        ]
+      },
+      "properties": {
+        "name": "Ramath-lehi / Khirbet es Siyyagh",
+        "description": "another name for Lehi",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.025793,
+          31.763715
+        ]
+      },
+      "properties": {
+        "name": "Ramath-lehi / Arak Ismain",
+        "description": "another name for Lehi",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.052967,
+          31.734836
+        ]
+      },
+      "properties": {
+        "name": "Ramath-lehi / Bayt Itab",
+        "description": "another name for Lehi",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

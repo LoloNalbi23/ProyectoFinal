@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.036733,
+          31.607211
+        ]
+      },
+      "properties": {
+        "name": "Nebo 3 / Nuba",
+        "description": "another name for Nebo 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.74386,
+          31.749127
+        ]
+      },
+      "properties": {
+        "name": "Nebo 3 / Khirbet al Mukhayyat",
+        "description": "another name for Nebo 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.242628,
+          31.794892
+        ]
+      },
+      "properties": {
+        "name": "Nebo 3 / Ras Umm et Tala",
+        "description": "another name for Nebo 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.244167,
+          31.7925
+        ]
+      },
+      "properties": {
+        "name": "Nebo 3 / Ras el Mesharif",
+        "description": "another name for Nebo 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.248333,
+          31.798611
+        ]
+      },
+      "properties": {
+        "name": "Nebo 3 / Isawiya",
+        "description": "another name for Nebo 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.738498,
+          31.777021
+        ]
+      },
+      "properties": {
+        "name": "Nebo 3 / Khirbet Ayun Musa",
+        "description": "another name for Nebo 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.250839,
+          31.777619
+        ]
+      },
+      "properties": {
+        "name": "Nebo 3 / Et Tur",
+        "description": "another name for Nebo 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23737,
+          31.81337
+        ]
+      },
+      "properties": {
+        "name": "Nebo 3 / Qu’meh",
+        "description": "another name for Nebo 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25694,
+          31.7912
+        ]
+      },
+      "properties": {
+        "name": "Nebo 3 / Ras Tumeim",
+        "description": "another name for Nebo 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.238992,
+          31.8057
+        ]
+      },
+      "properties": {
+        "name": "Nebo 3 / French Hill",
+        "description": "another name for Nebo 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

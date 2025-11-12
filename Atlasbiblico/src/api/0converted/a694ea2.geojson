@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77702,
+          32.118511
+        ]
+      },
+      "properties": {
+        "name": "Mizpah 4 / Jel‘ad",
+        "description": "another name for Mizpah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.014988,
+          32.499852
+        ]
+      },
+      "properties": {
+        "name": "Mizpah 4 / Tall er Rumeith",
+        "description": "another name for Mizpah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.761295,
+          32.131192
+        ]
+      },
+      "properties": {
+        "name": "Mizpah 4 / Khirbet er Rasuni",
+        "description": "another name for Mizpah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.83713,
+          32.31372
+        ]
+      },
+      "properties": {
+        "name": "Mizpah 4 / Suf",
+        "description": "another name for Mizpah 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

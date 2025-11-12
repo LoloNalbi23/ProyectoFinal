@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.014988,
+          32.499852
+        ]
+      },
+      "properties": {
+        "name": "Ramah 5 / Tall er Rumeith",
+        "description": "another name for Ramoth-gilead",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.880421,
+          32.491014
+        ]
+      },
+      "properties": {
+        "name": "Ramah 5 / Tall al Husun",
+        "description": "another name for Ramoth-gilead",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.006944,
+          32.559167
+        ]
+      },
+      "properties": {
+        "name": "Ramah 5 / Ar Ramtha",
+        "description": "another name for Ramoth-gilead",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.733333,
+          32.033333
+        ]
+      },
+      "properties": {
+        "name": "Ramah 5 / As Salt",
+        "description": "another name for Ramoth-gilead",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7518,
+          31.9128
+        ]
+      },
+      "properties": {
+        "name": "Ramah 5 / Iraq al Amir",
+        "description": "another name for Ramoth-gilead",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

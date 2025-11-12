@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.250605,
+              32.869893
+            ],
+            [
+              36.575677,
+              32.832181
+            ],
+            [
+              36.587588,
+              33.024459
+            ],
+            [
+              36.481851,
+              33.188236
+            ],
+            [
+              36.32172,
+              33.095953
+            ],
+            [
+              36.24618,
+              32.987532
+            ],
+            [
+              36.250605,
+              32.869893
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Trachonitis / Lajat",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.455383,
+          32.9695
+        ]
+      },
+      "properties": {
+        "name": "Trachonitis / Lajat",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.108266,
+          32.664099
+        ]
+      },
+      "properties": {
+        "name": "Jokmeam 1 / Tel Yokneam",
+        "description": "another name for Jokneam",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.108266,
+          32.664099
+        ]
+      },
+      "properties": {
+        "name": "Jokmeam 1 / Tel Yokneam",
+        "description": "another name for Jokmeam 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.48497,
+          32.13993
+        ]
+      },
+      "properties": {
+        "name": "Jokmeam 1 / Tel al Mazar",
+        "description": "another name for Jokmeam 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4878,
+          32.1321
+        ]
+      },
+      "properties": {
+        "name": "Jokmeam 1 / Tell Simadi",
+        "description": "another name for Jokmeam 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43,
+          32.046667
+        ]
+      },
+      "properties": {
+        "name": "Jokmeam 1 / Tell esh Sheikh Dhiab",
+        "description": "another name for Jokmeam 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.183442,
+          32.238706
+        ]
+      },
+      "properties": {
+        "name": "Jokmeam 1 / Qusin",
+        "description": "another name for Jokmeam 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

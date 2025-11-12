@@ -1,0 +1,191 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23161,
+          31.85434
+        ]
+      },
+      "properties": {
+        "name": "Ramathaim-zophim / Al Ram",
+        "description": "another name for Ramah 4",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.019444,
+          32.028056
+        ]
+      },
+      "properties": {
+        "name": "Ramathaim-zophim / Rantis",
+        "description": "another name for Ramah 4",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1025,
+          32.03286
+        ]
+      },
+      "properties": {
+        "name": "Ramathaim-zophim / Beit Rima",
+        "description": "another name for Ramah 4",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.201667,
+          31.896944
+        ]
+      },
+      "properties": {
+        "name": "Ramathaim-zophim / Ramallah",
+        "description": "another name for Ramah 4",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18015,
+          31.832733
+        ]
+      },
+      "properties": {
+        "name": "Ramathaim-zophim / Nabi Samwil",
+        "description": "another name for Ramah 4",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.216896,
+          31.739901
+        ]
+      },
+      "properties": {
+        "name": "Ramathaim-zophim / Ramat Rahel",
+        "description": "another name for Ramah 4",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.019444,
+          32.028056
+        ]
+      },
+      "properties": {
+        "name": "Ramathaim-zophim / Rantis",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.019444,
+          32.028056
+        ]
+      },
+      "properties": {
+        "name": "Ramathaim-zophim / Rantis",
+        "description": "another name for Arimathea",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1025,
+          32.03286
+        ]
+      },
+      "properties": {
+        "name": "Ramathaim-zophim / Beit Rima",
+        "description": "another name for Arimathea",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23161,
+          31.85434
+        ]
+      },
+      "properties": {
+        "name": "Ramathaim-zophim / Al Ram",
+        "description": "another name for Arimathea",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.214958,
+          31.905142
+        ]
+      },
+      "properties": {
+        "name": "Ramathaim-zophim / Al Bira",
+        "description": "another name for Arimathea",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

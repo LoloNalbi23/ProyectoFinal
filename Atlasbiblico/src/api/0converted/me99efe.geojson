@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38.064748,
+              26.758072
+            ],
+            [
+              39.429652,
+              26.804022
+            ],
+            [
+              39.228358,
+              29.876814
+            ],
+            [
+              37.002387,
+              29.856019
+            ],
+            [
+              36.912715,
+              27.414772
+            ],
+            [
+              38.064748,
+              26.758072
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "between Dedan and Kedar",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.987969,
+          28.356612
+        ]
+      },
+      "properties": {
+        "name": "between Dedan and Kedar",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

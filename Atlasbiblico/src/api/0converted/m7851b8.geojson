@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.713554,
+              31.557625
+            ],
+            [
+              34.945039,
+              31.550752
+            ],
+            [
+              34.985133,
+              31.686723
+            ],
+            [
+              34.741279,
+              31.696086
+            ],
+            [
+              34.713554,
+              31.557625
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "between Lachish and Gath",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.845729,
+          31.626892
+        ]
+      },
+      "properties": {
+        "name": "between Lachish and Gath",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

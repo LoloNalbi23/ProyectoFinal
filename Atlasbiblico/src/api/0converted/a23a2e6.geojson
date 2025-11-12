@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8783,
+          31.61593
+        ]
+      },
+      "properties": {
+        "name": "Tochen / Khirbet el Ater",
+        "description": "another name for Ether 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.965257,
+          30.989824
+        ]
+      },
+      "properties": {
+        "name": "Tochen / Khirbet Umm es Salafe",
+        "description": "another name for Telem",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.02882,
+          31.04903
+        ]
+      },
+      "properties": {
+        "name": "Tochen / Horbat Rahba",
+        "description": "another name for Telem",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.91217,
+          31.142053
+        ]
+      },
+      "properties": {
+        "name": "Tochen / Khirbet Abu Tulul",
+        "description": "another name for Telem",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.942026,
+          31.021943
+        ]
+      },
+      "properties": {
+        "name": "Tochen / El Alem",
+        "description": "another name for Telem",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.98188,
+          30.99677
+        ]
+      },
+      "properties": {
+        "name": "Tochen / Khirbet ez Zeifeh",
+        "description": "another name for Telem",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0258,
+          31.2172
+        ]
+      },
+      "properties": {
+        "name": "Tochen / Tel Malhata",
+        "description": "another name for Telem",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

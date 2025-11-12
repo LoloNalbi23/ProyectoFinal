@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.010967,
+              37.663708
+            ],
+            [
+              27.003793,
+              37.663084
+            ],
+            [
+              27.001609,
+              37.659868
+            ],
+            [
+              27.005441,
+              37.653947
+            ],
+            [
+              27.01425,
+              37.655934
+            ],
+            [
+              27.010967,
+              37.663708
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cape Mycale",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.003279,
+          37.659431
+        ]
+      },
+      "properties": {
+        "name": "Cape Mycale",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

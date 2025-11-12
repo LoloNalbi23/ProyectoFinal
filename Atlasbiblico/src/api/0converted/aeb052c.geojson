@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.826578,
+          31.638727
+        ]
+      },
+      "properties": {
+        "name": "Almon-diblathaim / Duleilat esh Sharqiyeh",
+        "description": "another name for Beth-diblathaim",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.793646,
+          31.619221
+        ]
+      },
+      "properties": {
+        "name": "Almon-diblathaim / Duleilat el Gharbiyeh",
+        "description": "another name for Beth-diblathaim",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.761261,
+          31.60634
+        ]
+      },
+      "properties": {
+        "name": "Almon-diblathaim / Khirbet Libb",
+        "description": "another name for Beth-diblathaim",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.774441,
+          31.69557
+        ]
+      },
+      "properties": {
+        "name": "Almon-diblathaim / Khirbet et Teim",
+        "description": "another name for Beth-diblathaim",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.826578,
+          31.638727
+        ]
+      },
+      "properties": {
+        "name": "Almon-diblathaim / Duleilat esh Sharqiyeh",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.793646,
+          31.619221
+        ]
+      },
+      "properties": {
+        "name": "Almon-diblathaim / Duleilat el Gharbiyeh",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.694296,
+          31.708935
+        ]
+      },
+      "properties": {
+        "name": "Almon-diblathaim / Khirbet el Qureiye",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

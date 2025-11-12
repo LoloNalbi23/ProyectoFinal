@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.216417,
+          31.885136
+        ]
+      },
+      "properties": {
+        "name": "Mizpeh 1 / Tell en Nasbeh",
+        "description": "another name for Mizpah 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18015,
+          31.832733
+        ]
+      },
+      "properties": {
+        "name": "Mizpeh 1 / Nabi Samwil",
+        "description": "another name for Mizpah 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

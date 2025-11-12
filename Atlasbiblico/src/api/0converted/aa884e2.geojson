@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.261111,
+          31.916944
+        ]
+      },
+      "properties": {
+        "name": "Aija / Et Tell",
+        "description": "another name for Ai 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2496,
+          31.91476
+        ]
+      },
+      "properties": {
+        "name": "Aija / Khirbet el Maqatir",
+        "description": "another name for Ai 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.228619,
+          31.897515
+        ]
+      },
+      "properties": {
+        "name": "Aija / Khirbet Nisieh",
+        "description": "another name for Ai 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2464,
+          31.9125
+        ]
+      },
+      "properties": {
+        "name": "Aija / Khirbet Ibn Baraq",
+        "description": "another name for Ai 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.270379,
+          31.905169
+        ]
+      },
+      "properties": {
+        "name": "Aija / Khirbet Haiyan",
+        "description": "another name for Ai 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.261111,
+          31.916944
+        ]
+      },
+      "properties": {
+        "name": "Aija / Et Tell",
+        "description": "another name for Aiath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2496,
+          31.91476
+        ]
+      },
+      "properties": {
+        "name": "Aija / Khirbet el Maqatir",
+        "description": "another name for Aiath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.228619,
+          31.897515
+        ]
+      },
+      "properties": {
+        "name": "Aija / Khirbet Nisieh",
+        "description": "another name for Aiath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2464,
+          31.9125
+        ]
+      },
+      "properties": {
+        "name": "Aija / Khirbet Ibn Baraq",
+        "description": "another name for Aiath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.270379,
+          31.905169
+        ]
+      },
+      "properties": {
+        "name": "Aija / Khirbet Haiyan",
+        "description": "another name for Aiath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.530445,
+          31.914888
+        ]
+      },
+      "properties": {
+        "name": "Abel-mizraim / near the mouth of the Jordan River",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.501161,
+          31.820379
+        ]
+      },
+      "properties": {
+        "name": "Abel-mizraim / Deir Hajla",
+        "description": "another name for Beth-hoglah",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.512222,
+          31.828056
+        ]
+      },
+      "properties": {
+        "name": "Abel-mizraim / Ain Hajlah",
+        "description": "another name for Beth-hoglah",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4041,
+          31.467
+        ]
+      },
+      "properties": {
+        "name": "Abel-mizraim / Tall al Ajjul",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

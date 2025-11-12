@@ -1,0 +1,225 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.919167,
+          31.859167
+        ]
+      },
+      "properties": {
+        "name": "Gob / Tel Gezer",
+        "description": "another name for Gezer",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.244167,
+          31.7925
+        ]
+      },
+      "properties": {
+        "name": "Gob / Ras el Mesharif",
+        "description": "another name for Nob",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.242628,
+          31.794892
+        ]
+      },
+      "properties": {
+        "name": "Gob / Ras Umm et Tala",
+        "description": "another name for Nob",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.248333,
+          31.798611
+        ]
+      },
+      "properties": {
+        "name": "Gob / Isawiya",
+        "description": "another name for Nob",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.250839,
+          31.777619
+        ]
+      },
+      "properties": {
+        "name": "Gob / Et Tur",
+        "description": "another name for Nob",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23737,
+          31.81337
+        ]
+      },
+      "properties": {
+        "name": "Gob / Qu’meh",
+        "description": "another name for Nob",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25694,
+          31.7912
+        ]
+      },
+      "properties": {
+        "name": "Gob / Ras Tumeim",
+        "description": "another name for Nob",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.238992,
+          31.8057
+        ]
+      },
+      "properties": {
+        "name": "Gob / French Hill",
+        "description": "another name for Nob",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.865556,
+          31.856389
+        ]
+      },
+      "properties": {
+        "name": "Gob / Tell Melat",
+        "description": "another name for Gibbethon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.88994,
+          31.90302
+        ]
+      },
+      "properties": {
+        "name": "Gob / Ras Abu Hamid",
+        "description": "another name for Gibbethon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8193,
+          31.85773
+        ]
+      },
+      "properties": {
+        "name": "Gob / Aqir",
+        "description": "another name for Gibbethon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.009722,
+          31.9775
+        ]
+      },
+      "properties": {
+        "name": "Gob / Qibya",
+        "description": "another name for Gibbethon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9575,
+          31.6963
+        ]
+      },
+      "properties": {
+        "name": "Gob / Khirbet Qeiyafa",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

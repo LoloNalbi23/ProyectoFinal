@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.80677,
+              32.055338
+            ],
+            [
+              35.836151,
+              32.037966
+            ],
+            [
+              35.873973,
+              32.08311
+            ],
+            [
+              35.850381,
+              32.100686
+            ],
+            [
+              35.80677,
+              32.055338
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Al Baqa'a",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.843056,
+          32.073611
+        ]
+      },
+      "properties": {
+        "name": "Al Baqa'a",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

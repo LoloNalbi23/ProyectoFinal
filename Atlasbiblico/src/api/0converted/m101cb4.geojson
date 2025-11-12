@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.698867,
+              31.467266
+            ],
+            [
+              36.078103,
+              31.410726
+            ],
+            [
+              36.047679,
+              31.759174
+            ],
+            [
+              35.758692,
+              31.767808
+            ],
+            [
+              35.698867,
+              31.467266
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Madaba Plateau",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.79548,
+          31.716107
+        ]
+      },
+      "properties": {
+        "name": "Madaba Plateau",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

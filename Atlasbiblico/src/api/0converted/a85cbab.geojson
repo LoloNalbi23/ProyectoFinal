@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.33275,
+          33.041278
+        ]
+      },
+      "properties": {
+        "name": "Beth-shemesh 3 / Tel Rosh",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5611,
+          32.6889
+        ]
+      },
+      "properties": {
+        "name": "Beth-shemesh 3 / El Abeidiyeh",
+        "description": "another name for Beth-shemesh 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.525239,
+          32.687762
+        ]
+      },
+      "properties": {
+        "name": "Beth-shemesh 3 / Sheikh esh Shamsawi",
+        "description": "another name for Beth-shemesh 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.512321,
+          32.380469
+        ]
+      },
+      "properties": {
+        "name": "Beth-shemesh 3 / Tell esh Shamsiya",
+        "description": "another name for Beth-shemesh 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.376611,
+          33.174505
+        ]
+      },
+      "properties": {
+        "name": "Beth-shemesh 3 / Hariss",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

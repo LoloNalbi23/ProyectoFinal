@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.083611,
+          31.895
+        ]
+      },
+      "properties": {
+        "name": "Horonaim 2 / Beit Ur al Tahta",
+        "description": "another name for Beth-horon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.64193,
+          31.09001
+        ]
+      },
+      "properties": {
+        "name": "Horonaim 2 / El Iraq",
+        "description": "another name for Horonaim 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.680758,
+          31.250523
+        ]
+      },
+      "properties": {
+        "name": "Horonaim 2 / Ed Deir",
+        "description": "another name for Horonaim 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.622231,
+          31.13788
+        ]
+      },
+      "properties": {
+        "name": "Horonaim 2 / Kathrabba",
+        "description": "another name for Horonaim 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.60545,
+          31.13793
+        ]
+      },
+      "properties": {
+        "name": "Horonaim 2 / Khirbet Meidan",
+        "description": "another name for Horonaim 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.634192,
+          31.035445
+        ]
+      },
+      "properties": {
+        "name": "Horonaim 2 / Khirbet Dhubab",
+        "description": "another name for Horonaim 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.586239,
+          31.051399
+        ]
+      },
+      "properties": {
+        "name": "Horonaim 2 / Medinet er Ras",
+        "description": "another name for Horonaim 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.640041,
+          31.13422
+        ]
+      },
+      "properties": {
+        "name": "Horonaim 2 / Khirbet Ai",
+        "description": "another name for Horonaim 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.662041,
+          31.130711
+        ]
+      },
+      "properties": {
+        "name": "Horonaim 2 / Tell el Mise",
+        "description": "another name for Horonaim 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}
