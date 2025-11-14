@@ -1,0 +1,74 @@
+body {
+            margin: 0;
+            padding: 40px;
+            font-family: "Poppins", sans-serif;
+            color: white;
+            background: url('https://thumbs.dreamstime.com/b/cruz-en-la-puesta-del-sol-crucifixi%C3%B3n-de-jesus-christ-127995266.jpg')
+                        no-repeat center center fixed;
+            background-size: cover;
+            backdrop-filter: blur(3px);
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 40px;
+            margin-bottom: 50px;
+            text-shadow: 0 0 10px rgba(255,255,255,0.6);
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            gap: 30px;
+        }
+
+        /* Caja estilo glass */
+        .versiculo-box,
+        .conclusion-box textarea {
+            background: rgba(0, 0, 0, 0.55);
+            border: 1px solid rgba(255,255,255,0.2);
+            backdrop-filter: blur(10px);
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+        }
+
+        .versiculo-box {
+            padding: 25px;
+            width: 50%;
+            min-height: 270px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .versiculo-texto {
+            font-size: 22px;
+            line-height: 1.5;
+        }
+
+        .versiculo-cita {
+            margin-top: 25px;
+            font-size: 24px;
+            font-weight: bold;
+            text-align: right;
+        }
+
+        .conclusion-box {
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .conclusion-box textarea {
+            width: 100%;
+            height: 270px;
+            padding: 18px;
+            font-size: 17px;
+            color: white;
+            resize: none;
+            outline: none;
+        }
+
+        .conclusion-box textarea::placeholder {
+            color: rgba(255, 255, 255, 0.6);
+        }

@@ -1,19 +1,51 @@
+import { useEffect, useState } from "react";
+import 'Versiculo.css'
+
     export default function Versiculo () {
+        const [verse, setVerse] = useState("")
+        const [cita, setCita] = useState({})
+        const [conclusion, setConclusion] = useState("")
+
+        useEffect(() => {
+            const saved = localStorage.getItem("conclusionDia");
+            if (saved) setConclusion(saved);
+        }, []);
+
+        useEffect(()=> {
+            fetch(`https://labs.bible.org/api/?passage=votd&type=json`)
+            .then(res => res.json())
+            .then(data => {
+                setCita({book:`${data[0].bookname}`, chapter: `${data[0].chapter}`, verse: `${data[0].verse}`})
+                setVerse(`${data[0].text}`)
+            });
+        },[])
+
+        const handleChange = (e) => {
+            const value = e.target.value;
+            setConclusion(value);
+            localStorage.setItem("conclusionDia", value);
+        };
+
 
         return (
-            <div className="text-center">
-            <h2 className="text-2xl font-bold mb-3 text-gray-800">
-                Versículo del Día
-            </h2>
-
-            <blockquote className="italic text-lg text-gray-700 mb-2">
-                “Aquí irá el versículo que traigas desde la API.”
-            </blockquote>
-
-            <p className="text-sm text-gray-500">
-                — Libro Capítulo:Versículo
-            </p>
+            <div>
+                <h1>Versículo del Día</h1>
+        <div class="container">
+        <div class="versiculo-box">
+            <div class="versiculo-texto" id="versiculo">
+                {verse}
             </div>
+            <div class="versiculo-cita" id="cita">
+                — {cita.book} {cita.chapter}:{cita.verse}
+            </div>
+        </div>
+
+        
+        <div class="conclusion-box">
+            <textarea placeholder="Escribí aquí tu reflexión final..." value={conclusion} onChange={handleChange}></textarea>
+        </div>
+    </div>
+            </div>
+        
         );
     };
-

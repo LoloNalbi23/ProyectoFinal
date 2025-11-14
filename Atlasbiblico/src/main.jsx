@@ -12,12 +12,12 @@ const AppRouter = () => {
     <Router>
       {/* <NavBar /> */}
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<Versiculo />} />
         {/* <Route path="/biblia/:libro/:capitulo" element={<BibleView />} />
         <Route path="/mapa/:lugar" element={<MapView />} />
         <Route path="/buscar/:query" element={<Personajes />} />
         <Route path="/favoritos" element={<Conexiones />} /> */}
-        <Route path="votd" element={<Versiculo />} />
+        <Route path="votd" element={<Home />} />
       </Routes>
     </Router>
   );
