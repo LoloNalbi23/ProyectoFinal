@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import 'Versiculo.css'
 
     export default function Versiculo () {
         const [verse, setVerse] = useState("")

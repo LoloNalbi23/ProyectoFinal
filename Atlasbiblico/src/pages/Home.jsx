@@ -1,4 +1,5 @@
     import Versiculo from "./Versiculo";
+    import MapaVista from "../components/MapaVista";
 
         export default function Home() {
     return (
@@ -41,6 +42,7 @@
             {/* Versículo del Día */}
             <div>
                 <Versiculo />
+                <MapaVista />
             </div>
             </section>
         </main>
