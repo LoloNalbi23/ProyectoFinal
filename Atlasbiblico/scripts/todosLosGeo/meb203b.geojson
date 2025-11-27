@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.392867,
+              37.328399
+            ],
+            [
+              41.211997,
+              37.140789
+            ],
+            [
+              42.197382,
+              37.304065
+            ],
+            [
+              42.008619,
+              37.523043
+            ],
+            [
+              41.066454,
+              37.718333
+            ],
+            [
+              40.249236,
+              37.504498
+            ],
+            [
+              40.392867,
+              37.328399
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Mons Masius",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.166667,
+          37.333333
+        ]
+      },
+      "properties": {
+        "name": "Mons Masius",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

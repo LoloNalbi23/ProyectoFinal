@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.459969,
+          31.881883
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Khirbet el Mefjir",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.48747,
+          31.85032
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Khirbet en Nitleh",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45567,
+          31.88161
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Suwwanet eth Thaniya",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.515486,
+          32.159929
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Bedhat esh Sha’ab",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3707,
+          32.24925
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / El ’Unuq",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45883,
+          31.87394
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Tell el Jurn",
+        "description": "another name for Gilgal 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.459969,
+          31.881883
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Khirbet el Mefjir",
+        "description": "another name for Gilgal 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.32262,
+          31.79052
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Araq ed Deir",
+        "description": "another name for Gilgal 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3363,
+          31.79239
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Khan el Ahmar",
+        "description": "another name for Gilgal 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.360304,
+          31.818431
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Tal‘at ed Damm",
+        "description": "another name for Gilgal 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.28876,
+          31.76492
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / El Khirbeh",
+        "description": "another name for Gilgal 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.48747,
+          31.85032
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Khirbet en Nitleh",
+        "description": "another name for Gilgal 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3707,
+          32.24925
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / El ’Unuq",
+        "description": "another name for Gilgal 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45567,
+          31.88161
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Suwwanet eth Thaniya",
+        "description": "another name for Gilgal 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45883,
+          31.87394
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Tell el Jurn",
+        "description": "another name for Gilgal 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.515486,
+          32.159929
+        ]
+      },
+      "properties": {
+        "name": "Beth-gilgal / Bedhat esh Sha’ab",
+        "description": "another name for Gilgal 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

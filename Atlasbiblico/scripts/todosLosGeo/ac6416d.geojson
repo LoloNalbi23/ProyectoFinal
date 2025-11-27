@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61221,
+          32.56576
+        ]
+      },
+      "properties": {
+        "name": "Debir 3 / Umm ed Debar",
+        "description": "another name for Lo-debar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.629916,
+          32.683927
+        ]
+      },
+      "properties": {
+        "name": "Debir 3 / Tel Dover",
+        "description": "another name for Lo-debar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5994,
+          32.4718
+        ]
+      },
+      "properties": {
+        "name": "Debir 3 / Tell el Hamme",
+        "description": "another name for Lo-debar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.68,
+          32.2055
+        ]
+      },
+      "properties": {
+        "name": "Debir 3 / Tell el Mughanniya",
+        "description": "another name for Lo-debar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.770748,
+          32.307011
+        ]
+      },
+      "properties": {
+        "name": "Debir 3 / Khirbet Hamid",
+        "description": "another name for Lo-debar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.788835,
+          32.664664
+        ]
+      },
+      "properties": {
+        "name": "Debir 3 / Ibdar",
+        "description": "another name for Lo-debar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61221,
+          32.56576
+        ]
+      },
+      "properties": {
+        "name": "Debir 3 / Umm ed Debar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

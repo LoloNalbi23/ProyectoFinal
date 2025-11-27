@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.324193,
+          32.683367
+        ]
+      },
+      "properties": {
+        "name": "Tabor 2 / Iksal",
+        "description": "another name for Chisloth-tabor",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.377531,
+          32.697284
+        ]
+      },
+      "properties": {
+        "name": "Tabor 2 / Horvat Devora",
+        "description": "another name for Daberath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.384722,
+          32.388889
+        ]
+      },
+      "properties": {
+        "name": "Tabor 2 / Raba",
+        "description": "another name for Daberath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3633,
+          32.5125
+        ]
+      },
+      "properties": {
+        "name": "Tabor 2 / Arabbuna",
+        "description": "another name for Daberath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.377531,
+          32.697284
+        ]
+      },
+      "properties": {
+        "name": "Tabor 2 / Horvat Devora",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.392917,
+          32.68625
+        ]
+      },
+      "properties": {
+        "name": "Tabor 2 / Jebel et Tur",
+        "description": "another name for Mount Tabor",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

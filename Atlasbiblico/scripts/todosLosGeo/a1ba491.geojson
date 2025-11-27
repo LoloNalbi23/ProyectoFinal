@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11352,
+          31.62071
+        ]
+      },
+      "properties": {
+        "name": "Maroth / Khirbet Qufin",
+        "description": "another name for Maarath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.102222,
+          31.621389
+        ]
+      },
+      "properties": {
+        "name": "Maroth / Beit Ummar",
+        "description": "another name for Maarath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.158731,
+          31.601481
+        ]
+      },
+      "properties": {
+        "name": "Maroth / Khirbet ez Zawiya",
+        "description": "another name for Maarath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.10826,
+          31.659966
+        ]
+      },
+      "properties": {
+        "name": "Maroth / Khirbet el Hubeila",
+        "description": "another name for Maarath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.142696,
+          31.653256
+        ]
+      },
+      "properties": {
+        "name": "Maroth / Rujm es Sabit",
+        "description": "another name for Maarath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

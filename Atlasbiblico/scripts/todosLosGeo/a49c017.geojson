@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.096667,
+          32.728056
+        ]
+      },
+      "properties": {
+        "name": "Harosheth-hagoyim / Tell Amr",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09027,
+          32.75885
+        ]
+      },
+      "properties": {
+        "name": "Harosheth-hagoyim / Tel Regev",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.093808,
+          32.487149
+        ]
+      },
+      "properties": {
+        "name": "Harosheth-hagoyim / Ahwat",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.223983,
+              32.521426
+            ],
+            [
+              35.241922,
+              32.538288
+            ],
+            [
+              35.235226,
+              32.5663
+            ],
+            [
+              35.217928,
+              32.585327
+            ],
+            [
+              35.202894,
+              32.592342
+            ],
+            [
+              35.185306,
+              32.585607
+            ],
+            [
+              35.17699,
+              32.572289
+            ],
+            [
+              35.178294,
+              32.557863
+            ],
+            [
+              35.18627,
+              32.551377
+            ],
+            [
+              35.197685,
+              32.546128
+            ],
+            [
+              35.210721,
+              32.542298
+            ],
+            [
+              35.201695,
+              32.528875
+            ],
+            [
+              35.223983,
+              32.521426
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Harosheth-hagoyim / plain between Taanach and Megiddo",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.216031,
+          32.55949
+        ]
+      },
+      "properties": {
+        "name": "Harosheth-hagoyim / plain between Taanach and Megiddo",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.22182,
+              32.531582
+            ],
+            [
+              35.264726,
+              32.487244
+            ],
+            [
+              35.303931,
+              32.469138
+            ],
+            [
+              35.324806,
+              32.498956
+            ],
+            [
+              35.326957,
+              32.552777
+            ],
+            [
+              35.22182,
+              32.531582
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Harosheth-hagoyim / southern Jezreel Valley",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.289167,
+          32.503056
+        ]
+      },
+      "properties": {
+        "name": "Harosheth-hagoyim / southern Jezreel Valley",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.10983,
+          32.72215
+        ]
+      },
+      "properties": {
+        "name": "Harosheth-hagoyim / Khirbet el Harithiyeh",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

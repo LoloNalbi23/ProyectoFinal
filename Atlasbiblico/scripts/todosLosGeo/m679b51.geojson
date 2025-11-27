@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.186143,
+              28.665218
+            ],
+            [
+              33.221261,
+              28.564395
+            ],
+            [
+              33.416412,
+              28.381499
+            ],
+            [
+              33.728503,
+              28.04393
+            ],
+            [
+              34.072926,
+              27.784494
+            ],
+            [
+              34.268282,
+              27.783545
+            ],
+            [
+              33.997766,
+              28.11498
+            ],
+            [
+              33.589895,
+              28.581956
+            ],
+            [
+              33.329824,
+              28.713623
+            ],
+            [
+              33.186143,
+              28.665218
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "El Qaa",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6222,
+          28.24168
+        ]
+      },
+      "properties": {
+        "name": "El Qaa",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

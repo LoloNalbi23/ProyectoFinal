@@ -1,0 +1,11 @@
+{
+  "ciudades": [
+    "ciudades/jerusalen.geojson",
+    "ciudades/belen.geojson",
+    "ciudades/cafarnaum.geojson"
+  ],
+  "rios": [
+    "rios/jordan.geojson"
+  ],
+  "regiones": []
+}

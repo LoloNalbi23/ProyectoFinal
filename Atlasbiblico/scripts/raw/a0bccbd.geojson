@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.577241,
+          32.26769
+        ]
+      },
+      "properties": {
+        "name": "Zererah / Tell es Sa’idiyeh",
+        "description": "another name for Zeredah 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.58147,
+          32.14214
+        ]
+      },
+      "properties": {
+        "name": "Zererah / Tell Umm Hamad",
+        "description": "another name for Zeredah 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5905,
+          32.4002
+        ]
+      },
+      "properties": {
+        "name": "Zererah / Tall al Meqbarah",
+        "description": "another name for Zeredah 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.59329,
+          32.32307
+        ]
+      },
+      "properties": {
+        "name": "Zererah / Sleikhat",
+        "description": "another name for Zeredah 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.546789,
+          32.103933
+        ]
+      },
+      "properties": {
+        "name": "Zererah / Tell ed Damiyeh",
+        "description": "another name for Zeredah 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46139,
+          32.09583
+        ]
+      },
+      "properties": {
+        "name": "Zererah / Qarn Sartaba",
+        "description": "another name for Zeredah 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.62,
+          32.2449
+        ]
+      },
+      "properties": {
+        "name": "Zererah / Tell el Qos",
+        "description": "another name for Zeredah 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4878,
+          32.1321
+        ]
+      },
+      "properties": {
+        "name": "Zererah / Tell Simadi",
+        "description": "another name for Zeredah 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.498242,
+          32.457125
+        ]
+      },
+      "properties": {
+        "name": "Zererah / Tel Rehov",
+        "description": "another name for Zeredah 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6061,
+          32.2222
+        ]
+      },
+      "properties": {
+        "name": "Zererah / Tall el Mazar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

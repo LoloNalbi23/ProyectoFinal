@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.243368,
+          33.317804
+        ]
+      },
+      "properties": {
+        "name": "Helbah / Khirbet al Mahalib",
+        "description": "another name for Ahlab",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.168333,
+          33.164722
+        ]
+      },
+      "properties": {
+        "name": "Helbah / Ras el Biyada",
+        "description": "another name for Ahlab",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.243368,
+          33.317804
+        ]
+      },
+      "properties": {
+        "name": "Helbah / Khirbet al Mahalib",
+        "description": "another name for Mahalab",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.168333,
+          33.164722
+        ]
+      },
+      "properties": {
+        "name": "Helbah / Ras el Biyada",
+        "description": "another name for Mahalab",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

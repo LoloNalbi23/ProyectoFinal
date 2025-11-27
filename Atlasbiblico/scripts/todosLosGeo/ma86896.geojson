@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.936722,
+              31.69536
+            ],
+            [
+              34.937521,
+              31.686871
+            ],
+            [
+              34.966245,
+              31.686131
+            ],
+            [
+              34.989864,
+              31.676
+            ],
+            [
+              35.005962,
+              31.663426
+            ],
+            [
+              35.011407,
+              31.664173
+            ],
+            [
+              35.005185,
+              31.680791
+            ],
+            [
+              35.011608,
+              31.690135
+            ],
+            [
+              35.002687,
+              31.692164
+            ],
+            [
+              34.986976,
+              31.688323
+            ],
+            [
+              34.970525,
+              31.693732
+            ],
+            [
+              34.936722,
+              31.69536
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Valley of Elah",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.99802,
+          31.67542
+        ]
+      },
+      "properties": {
+        "name": "Valley of Elah",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.453522,
+              32.45224
+            ],
+            [
+              44.299636,
+              32.448582
+            ],
+            [
+              44.291237,
+              32.408403
+            ],
+            [
+              44.312659,
+              32.352486
+            ],
+            [
+              44.326371,
+              32.296583
+            ],
+            [
+              44.364605,
+              32.252183
+            ],
+            [
+              44.370594,
+              32.195537
+            ],
+            [
+              44.501938,
+              32.205673
+            ],
+            [
+              44.679074,
+              32.249275
+            ],
+            [
+              44.580871,
+              32.384826
+            ],
+            [
+              44.499405,
+              32.405638
+            ],
+            [
+              44.453522,
+              32.45224
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tulul Dura",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.501667,
+          32.32
+        ]
+      },
+      "properties": {
+        "name": "Tulul Dura",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.466705,
+            31.023158
+          ],
+          [
+            35.251347,
+            30.806588
+          ],
+          [
+            35.268485,
+            30.696542
+          ],
+          [
+            35.164959,
+            30.253574
+          ],
+          [
+            35.164858,
+            30.115112
+          ],
+          [
+            35.091187,
+            29.950987
+          ],
+          [
+            35.078312,
+            29.853195
+          ],
+          [
+            34.978499,
+            29.654203
+          ],
+          [
+            34.953517,
+            29.568895
+          ]
+        ]
+      },
+      "properties": {
+        "name": "road between the Dead Sea and the Gulf of Aqaba",
+        "styleUrl": "#path",
+        "stroke-opacity": 1,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.998333,
+          29.727222
+        ]
+      },
+      "properties": {
+        "name": "road between the Dead Sea and the Gulf of Aqaba",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39736,
+          32.36884
+        ]
+      },
+      "properties": {
+        "name": "Bezek 1 / Khirbet Ibziq",
+        "description": "another name for Bezek 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3725,
+          32.354167
+        ]
+      },
+      "properties": {
+        "name": "Bezek 1 / Khirbet Salhab",
+        "description": "another name for Bezek 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.964918,
+          31.880322
+        ]
+      },
+      "properties": {
+        "name": "Bezek 1 / Tell Bezqa",
+        "description": "another name for Bezek 2",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.964918,
+          31.880322
+        ]
+      },
+      "properties": {
+        "name": "Bezek 1 / Tell Bezqa",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

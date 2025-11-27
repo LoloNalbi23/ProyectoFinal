@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.85,
+          33.4
+        ]
+      },
+      "properties": {
+        "name": "Baal-hermon / Mount Hermon",
+        "description": "another name for Mount Hermon",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.683333,
+          33.383333
+        ]
+      },
+      "properties": {
+        "name": "Baal-hermon / Hasbaya",
+        "description": "another name for Baal-gad",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.693333,
+          33.246111
+        ]
+      },
+      "properties": {
+        "name": "Baal-hermon / Banias",
+        "description": "another name for Baal-gad",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.74747,
+          33.46788
+        ]
+      },
+      "properties": {
+        "name": "Baal-hermon / Tell Haush",
+        "description": "another name for Baal-gad",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5875,
+          33.36639
+        ]
+      },
+      "properties": {
+        "name": "Baal-hermon / Ain Jedeideh",
+        "description": "another name for Baal-gad",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2044,
+          34.007611
+        ]
+      },
+      "properties": {
+        "name": "Baal-hermon / Baalbek",
+        "description": "another name for Baal-gad",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.693333,
+          33.246111
+        ]
+      },
+      "properties": {
+        "name": "Baal-hermon / Banias",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

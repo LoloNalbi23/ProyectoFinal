@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4625,
+          33.111944
+        ]
+      },
+      "properties": {
+        "name": "Kiriathaim 2 / Khirbet el Qureiyeh",
+        "description": "another name for Kartan",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.525833,
+          32.806389
+        ]
+      },
+      "properties": {
+        "name": "Kiriathaim 2 / Tel Raqqat",
+        "description": "another name for Kartan",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

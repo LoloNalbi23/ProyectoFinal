@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.811761,
+              33.353421
+            ],
+            [
+              35.661238,
+              32.513198
+            ],
+            [
+              35.639106,
+              31.965954
+            ],
+            [
+              35.715941,
+              31.789723
+            ],
+            [
+              35.047135,
+              29.528504
+            ],
+            [
+              37.670975,
+              29.350224
+            ],
+            [
+              38.273915,
+              33.302161
+            ],
+            [
+              35.811761,
+              33.353421
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Transjordan",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9343,
+          31.9547
+        ]
+      },
+      "properties": {
+        "name": "Transjordan",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

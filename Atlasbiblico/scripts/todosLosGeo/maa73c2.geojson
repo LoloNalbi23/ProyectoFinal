@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.708204,
+              31.192504
+            ],
+            [
+              34.869915,
+              31.259891
+            ],
+            [
+              34.666456,
+              31.43478
+            ],
+            [
+              34.481841,
+              31.417769
+            ],
+            [
+              34.708204,
+              31.192504
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "between Gerar and Beersheba",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6062,
+          31.424497
+        ]
+      },
+      "properties": {
+        "name": "between Gerar and Beersheba",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

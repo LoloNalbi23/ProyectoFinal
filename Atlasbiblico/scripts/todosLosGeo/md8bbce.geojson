@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.148612,
+            32.409017
+          ],
+          [
+            48.197856,
+            32.400089
+          ],
+          [
+            48.235701,
+            32.394195
+          ],
+          [
+            48.288085,
+            32.378753
+          ],
+          [
+            48.356149,
+            32.354564
+          ],
+          [
+            48.435174,
+            32.288621
+          ],
+          [
+            48.44059,
+            32.286075
+          ],
+          [
+            48.526736,
+            32.238294
+          ],
+          [
+            48.634882,
+            32.181673
+          ],
+          [
+            48.719176,
+            32.088719
+          ],
+          [
+            48.789452,
+            32.010912
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ulai canal",
+        "styleUrl": "#water",
+        "fill-opacity": 0.5019607843137255,
+        "fill": "#0000cc",
+        "stroke-opacity": 0.8,
+        "stroke": "#0000cc",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.147827,
+          32.409975
+        ]
+      },
+      "properties": {
+        "name": "Ulai canal",
+        "styleUrl": "#waterrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    }
+  ]
+}

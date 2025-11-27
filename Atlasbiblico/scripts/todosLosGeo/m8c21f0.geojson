@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.27049,
+              31.840701
+            ],
+            [
+              35.292989,
+              31.840106
+            ],
+            [
+              35.289802,
+              31.846147
+            ],
+            [
+              35.269657,
+              31.844873
+            ],
+            [
+              35.27049,
+              31.840701
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sahel Geba",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.279535,
+          31.841047
+        ]
+      },
+      "properties": {
+        "name": "Sahel Geba",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

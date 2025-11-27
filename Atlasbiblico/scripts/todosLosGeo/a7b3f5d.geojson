@@ -1,0 +1,172 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.966564,
+          31.534716
+        ]
+      },
+      "properties": {
+        "name": "Shaphir / Khirbet el Qom",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.704236,
+          31.713231
+        ]
+      },
+      "properties": {
+        "name": "Shaphir / Tell as Sawafir",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.928055,
+          31.491813
+        ]
+      },
+      "properties": {
+        "name": "Shaphir / Tell Eton",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9265,
+          31.4355
+        ]
+      },
+      "properties": {
+        "name": "Shaphir / Khirbet al Bira",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9318,
+          31.4184
+        ]
+      },
+      "properties": {
+        "name": "Shaphir / Khirbet Sumara",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9549,
+          31.4121
+        ]
+      },
+      "properties": {
+        "name": "Shaphir / Khirbet Anab es Seghireh",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9308,
+          31.3959
+        ]
+      },
+      "properties": {
+        "name": "Shaphir / Khirbet Anab al Kabir",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9826,
+          31.4887
+        ]
+      },
+      "properties": {
+        "name": "Shaphir / Khirbet Fuqeiqis",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.033694,
+          31.421683
+        ]
+      },
+      "properties": {
+        "name": "Shaphir / Khirbet al Simia",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.202,
+          31.9121
+        ]
+      },
+      "properties": {
+        "name": "Shaphir / Khirbet Raddana",
+        "description": "another name for Shamir 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

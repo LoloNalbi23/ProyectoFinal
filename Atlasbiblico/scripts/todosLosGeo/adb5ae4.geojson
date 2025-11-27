@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.393056,
+          32.661389
+        ]
+      },
+      "properties": {
+        "name": "Kedesh 3 / Tell Qisyon",
+        "description": "another name for Kishion",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46614,
+          32.653446
+        ]
+      },
+      "properties": {
+        "name": "Kedesh 3 / Tell Rekhesh",
+        "description": "another name for Kishion",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.216031,
+          32.55949
+        ]
+      },
+      "properties": {
+        "name": "Kedesh 3 / Tell Abu Qedeis",
+        "description": "another name for Kishion",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.371944,
+          32.631389
+        ]
+      },
+      "properties": {
+        "name": "Kedesh 3 / Tell el Ajjul",
+        "description": "another name for Kishion",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.216031,
+          32.55949
+        ]
+      },
+      "properties": {
+        "name": "Kedesh 3 / Tell Abu Qedeis",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

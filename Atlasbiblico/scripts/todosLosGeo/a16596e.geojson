@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8783,
+          31.61593
+        ]
+      },
+      "properties": {
+        "name": "Ether 2 / Khirbet el Ater",
+        "description": "another name for Ether 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.016111,
+          31.3525
+        ]
+      },
+      "properties": {
+        "name": "Ether 2 / Khirbet Attir",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8783,
+          31.61593
+        ]
+      },
+      "properties": {
+        "name": "Ether 2 / Khirbet el Ater",
+        "description": "another name for Athach",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.016111,
+          31.3525
+        ]
+      },
+      "properties": {
+        "name": "Ether 2 / Khirbet Attir",
+        "description": "another name for Athach",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.016111,
+          31.3525
+        ]
+      },
+      "properties": {
+        "name": "Ether 2 / Khirbet Attir",
+        "description": "another name for Jattir",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

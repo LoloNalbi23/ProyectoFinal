@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.26686,
+            29.897558
+          ],
+          [
+            31.592265,
+            30.310486
+          ],
+          [
+            31.576991,
+            30.628665
+          ],
+          [
+            31.82892,
+            30.805284
+          ],
+          [
+            32.562827,
+            31.083443
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pelusiac branch of the Nile",
+        "styleUrl": "#water",
+        "fill-opacity": 0.5019607843137255,
+        "fill": "#0000cc",
+        "stroke-opacity": 0.8,
+        "stroke": "#0000cc",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.546139,
+          31.042512
+        ]
+      },
+      "properties": {
+        "name": "Pelusiac branch of the Nile",
+        "styleUrl": "#waterrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    }
+  ]
+}

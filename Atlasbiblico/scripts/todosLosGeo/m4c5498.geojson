@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.515845,
+              30.99693
+            ],
+            [
+              35.4236,
+              30.396406
+            ],
+            [
+              35.718003,
+              30.37924
+            ],
+            [
+              35.816378,
+              30.938602
+            ],
+            [
+              35.515845,
+              30.99693
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "between the Dead Sea and Petra",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.55057,
+          30.52198
+        ]
+      },
+      "properties": {
+        "name": "between the Dead Sea and Petra",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

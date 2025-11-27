@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.860216,
+              31.745623
+            ],
+            [
+              34.512165,
+              31.381663
+            ],
+            [
+              34.774822,
+              31.24537
+            ],
+            [
+              35.372166,
+              31.183454
+            ],
+            [
+              35.454223,
+              31.699954
+            ],
+            [
+              34.860216,
+              31.745623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Idumea",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.10222,
+          31.525087
+        ]
+      },
+      "properties": {
+        "name": "Idumea",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

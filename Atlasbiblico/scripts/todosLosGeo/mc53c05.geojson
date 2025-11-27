@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.254746,
+              29.145172
+            ],
+            [
+              33.286443,
+              29.055687
+            ],
+            [
+              33.426172,
+              29.096001
+            ],
+            [
+              33.565995,
+              28.986642
+            ],
+            [
+              33.860842,
+              28.905384
+            ],
+            [
+              33.89001,
+              28.938002
+            ],
+            [
+              33.483343,
+              29.181287
+            ],
+            [
+              33.254746,
+              29.145172
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Debbet er Ramleh",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.536667,
+          29.147778
+        ]
+      },
+      "properties": {
+        "name": "Debbet er Ramleh",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

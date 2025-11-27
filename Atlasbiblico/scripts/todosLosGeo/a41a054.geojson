@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.408824,
+              31.314783
+            ],
+            [
+              35.305248,
+              30.924507
+            ],
+            [
+              35.479241,
+              30.90329
+            ],
+            [
+              35.546828,
+              31.303317
+            ],
+            [
+              35.408824,
+              31.314783
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Admah / in the region south of the Lisan",
+        "description": "in the Valley of Siddim",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.449223,
+          31.20849
+        ]
+      },
+      "properties": {
+        "name": "Admah / in the region south of the Lisan",
+        "description": "in the Valley of Siddim",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.641497,
+              31.738839
+            ],
+            [
+              35.701387,
+              31.844513
+            ],
+            [
+              35.595213,
+              31.965858
+            ],
+            [
+              35.605654,
+              32.028979
+            ],
+            [
+              35.473661,
+              32.0442
+            ],
+            [
+              35.447941,
+              31.960009
+            ],
+            [
+              35.398864,
+              31.951947
+            ],
+            [
+              35.377756,
+              31.918242
+            ],
+            [
+              35.421166,
+              31.893264
+            ],
+            [
+              35.430094,
+              31.847714
+            ],
+            [
+              35.454051,
+              31.779867
+            ],
+            [
+              35.494221,
+              31.751456
+            ],
+            [
+              35.641497,
+              31.738839
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Admah / in the region north of the Dead Sea",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.595278,
+          31.795
+        ]
+      },
+      "properties": {
+        "name": "Admah / in the region north of the Dead Sea",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.546789,
+          32.103933
+        ]
+      },
+      "properties": {
+        "name": "Admah / Tell ed Damiyeh",
+        "description": "another name for Adam",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.437069,
+          30.87767
+        ]
+      },
+      "properties": {
+        "name": "Admah / Khanazir",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.624546,
+          31.90094
+        ]
+      },
+      "properties": {
+        "name": "Admah / Tall Nimrin",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.458842,
+          30.939606
+        ]
+      },
+      "properties": {
+        "name": "Admah / Feifa",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

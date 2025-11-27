@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1562,
+          31.29606
+        ]
+      },
+      "properties": {
+        "name": "Dibon 2 / Khirbet edh Dheiba",
+        "description": "another name for Dimonah",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.031014,
+          31.1069
+        ]
+      },
+      "properties": {
+        "name": "Dibon 2 / Hare Dimona 18",
+        "description": "another name for Dimonah",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.07829,
+          31.303646
+        ]
+      },
+      "properties": {
+        "name": "Dibon 2 / Horbat Deragot",
+        "description": "another name for Dimonah",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14909,
+          31.30283
+        ]
+      },
+      "properties": {
+        "name": "Dibon 2 / Horbat Tayyav",
+        "description": "another name for Dimonah",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.776574,
+          31.502236
+        ]
+      },
+      "properties": {
+        "name": "Dibon 2 / Tall Dhiban",
+        "description": "another name for Dibon 1",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

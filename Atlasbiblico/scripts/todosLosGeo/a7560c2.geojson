@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.013917,
+          29.672913
+        ]
+      },
+      "properties": {
+        "name": "Abronah / Ein Evrona",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.999999,
+          29.530676
+        ]
+      },
+      "properties": {
+        "name": "Abronah / Aqaba",
+        "description": "another name for Elath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.980258,
+          29.547181
+        ]
+      },
+      "properties": {
+        "name": "Abronah / Tell el Kheleifeh",
+        "description": "another name for Elath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.96352,
+          29.57148
+        ]
+      },
+      "properties": {
+        "name": "Abronah / Eilat",
+        "description": "another name for Elath",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.863513,
+              29.607168
+            ],
+            [
+              34.862655,
+              29.634169
+            ],
+            [
+              34.796324,
+              29.631743
+            ],
+            [
+              34.800481,
+              29.609982
+            ],
+            [
+              34.863513,
+              29.607168
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Abronah / in Qa’an Naqb",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.84979,
+          29.6131
+        ]
+      },
+      "properties": {
+        "name": "Abronah / in Qa’an Naqb",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.96352,
+          29.57148
+        ]
+      },
+      "properties": {
+        "name": "Abronah / Eilat",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

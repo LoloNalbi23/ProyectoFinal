@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.333333,
+          30.6875
+        ]
+      },
+      "properties": {
+        "name": "Beer-lahai-roi / Ain Muweileh",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.652,
+          31.097
+        ]
+      },
+      "properties": {
+        "name": "Beer-lahai-roi / Haluza",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.173133,
+          30.382414
+        ]
+      },
+      "properties": {
+        "name": "Beer-lahai-roi / Jebel Umm el Bared",
+        "styleUrl": "#waterpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.158807,
+            30.738661
+          ],
+          [
+            34.158667,
+            30.740155
+          ],
+          [
+            34.158474,
+            30.741529
+          ],
+          [
+            34.157906,
+            30.742359
+          ],
+          [
+            34.156629,
+            30.743742
+          ],
+          [
+            34.154934,
+            30.745051
+          ],
+          [
+            34.154054,
+            30.745392
+          ],
+          [
+            34.15356,
+            30.745872
+          ],
+          [
+            34.151801,
+            30.746923
+          ],
+          [
+            34.150953,
+            30.747458
+          ],
+          [
+            34.150535,
+            30.747808
+          ],
+          [
+            34.150031,
+            30.748601
+          ],
+          [
+            34.150041,
+            30.750021
+          ],
+          [
+            34.149655,
+            30.750528
+          ],
+          [
+            34.148346,
+            30.751008
+          ],
+          [
+            34.145739,
+            30.75133
+          ],
+          [
+            34.143207,
+            30.753147
+          ],
+          [
+            34.142209,
+            30.754723
+          ],
+          [
+            34.140439,
+            30.756457
+          ],
+          [
+            34.139237,
+            30.758135
+          ],
+          [
+            34.138132,
+            30.758411
+          ],
+          [
+            34.137081,
+            30.759711
+          ],
+          [
+            34.136502,
+            30.759868
+          ],
+          [
+            34.135375,
+            30.760486
+          ],
+          [
+            34.13413,
+            30.760633
+          ],
+          [
+            34.132982,
+            30.760329
+          ],
+          [
+            34.129013,
+            30.761583
+          ],
+          [
+            34.127577,
+            30.761891
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Beer-lahai-roi / along Wadi Umm Rajil",
+        "styleUrl": "#water",
+        "fill-opacity": 0.5019607843137255,
+        "fill": "#0000cc",
+        "stroke-opacity": 0.8,
+        "stroke": "#0000cc",
+        "stroke-width": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.12978,
+          30.76286
+        ]
+      },
+      "properties": {
+        "name": "Beer-lahai-roi / along Wadi Umm Rajil",
+        "styleUrl": "#waterrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/blu-circle.png"
+      }
+    }
+  ]
+}

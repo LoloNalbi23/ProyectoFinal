@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.407143,
+              14.123567
+            ],
+            [
+              44.405244,
+              14.114697
+            ],
+            [
+              44.406906,
+              14.102854
+            ],
+            [
+              44.416982,
+              14.097613
+            ],
+            [
+              44.427432,
+              14.105847
+            ],
+            [
+              44.444535,
+              14.106819
+            ],
+            [
+              44.446075,
+              14.114188
+            ],
+            [
+              44.440832,
+              14.114959
+            ],
+            [
+              44.440502,
+              14.121208
+            ],
+            [
+              44.42378,
+              14.11806
+            ],
+            [
+              44.407143,
+              14.123567
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Az Zu`alla",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.42321,
+          14.10983
+        ]
+      },
+      "properties": {
+        "name": "Az Zu`alla",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

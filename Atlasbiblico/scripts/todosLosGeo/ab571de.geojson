@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2219,
+          32.8926
+        ]
+      },
+      "properties": {
+        "name": "Neiel / Khirbet Yanin",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3051,
+          32.7988
+        ]
+      },
+      "properties": {
+        "name": "Neiel / Tell el Wawiyat",
+        "description": "another name for Neah",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.423456,
+          32.804203
+        ]
+      },
+      "properties": {
+        "name": "Neiel / Nimrin",
+        "description": "another name for Neah",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.239204,
+              32.801784
+            ],
+            [
+              35.262757,
+              32.781737
+            ],
+            [
+              35.352063,
+              32.797059
+            ],
+            [
+              35.404656,
+              32.808052
+            ],
+            [
+              35.411032,
+              32.826139
+            ],
+            [
+              35.382551,
+              32.836142
+            ],
+            [
+              35.33233,
+              32.823671
+            ],
+            [
+              35.239204,
+              32.801784
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Neiel / Beit Netofa Valley",
+        "description": "another name for Neah",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.332461,
+          32.809567
+        ]
+      },
+      "properties": {
+        "name": "Neiel / Beit Netofa Valley",
+        "description": "another name for Neah",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.863513,
+              29.607168
+            ],
+            [
+              34.862655,
+              29.634169
+            ],
+            [
+              34.796324,
+              29.631743
+            ],
+            [
+              34.800481,
+              29.609982
+            ],
+            [
+              34.863513,
+              29.607168
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Qa'an Naqb",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.84979,
+          29.6131
+        ]
+      },
+      "properties": {
+        "name": "Qa'an Naqb",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

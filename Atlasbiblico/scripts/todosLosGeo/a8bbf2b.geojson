@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.768703,
+              32.094861
+            ],
+            [
+              34.995666,
+              32.087121
+            ],
+            [
+              35.114468,
+              32.559525
+            ],
+            [
+              34.912206,
+              32.585153
+            ],
+            [
+              34.768703,
+              32.094861
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lasharon / Sharon Plain",
+        "description": "another name for Sharon 1",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.883,
+          32.4
+        ]
+      },
+      "properties": {
+        "name": "Lasharon / Sharon Plain",
+        "description": "another name for Sharon 1",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.47464,
+          32.71309
+        ]
+      },
+      "properties": {
+        "name": "Lasharon / Khirbet Sarona",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

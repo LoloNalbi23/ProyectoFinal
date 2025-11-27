@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.985111,
+            29.524852
+          ],
+          [
+            35.655727,
+            30.390013
+          ],
+          [
+            35.876257,
+            30.971797
+          ],
+          [
+            35.698572,
+            31.178623
+          ],
+          [
+            35.794945,
+            31.716413
+          ],
+          [
+            35.942222,
+            31.954581
+          ],
+          [
+            35.873331,
+            32.278884
+          ],
+          [
+            36.086399,
+            32.63039
+          ],
+          [
+            36.018368,
+            32.808296
+          ],
+          [
+            36.30926,
+            33.505467
+          ]
+        ]
+      },
+      "properties": {
+        "name": "King's Highway",
+        "styleUrl": "#path",
+        "stroke-opacity": 1,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9343,
+          31.9547
+        ]
+      },
+      "properties": {
+        "name": "King's Highway",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

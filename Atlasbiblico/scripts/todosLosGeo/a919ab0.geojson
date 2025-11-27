@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.216417,
+          31.885136
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Tell en Nasbeh",
+        "description": "another name for Ataroth-addar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.665938,
+          31.5753
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Khirbet Ataruz",
+        "description": "another name for Ataroth-addar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21752,
+          31.87993
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Khirbet Atara",
+        "description": "another name for Ataroth-addar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.202,
+          31.9121
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Khirbet Raddana",
+        "description": "another name for Ataroth-addar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18015,
+          31.832733
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Nabi Samwil",
+        "description": "another name for Ataroth-addar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.48497,
+          32.13993
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Tel al Mazar",
+        "description": "another name for Ataroth-addar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2285,
+          31.8805
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Kafr Aqab",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21752,
+          31.87993
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Khirbet Atara",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.202,
+          31.9121
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Khirbet Raddana",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1915,
+          31.8859
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Bir ed Deir",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.143056,
+          31.906667
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Ein Arik",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2052,
+          31.8859
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Ein Umm esh Sharayit",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40935,
+          31.943741
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Khirbet el Aujah",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39974,
+          31.9472
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Khirbet el Aujah el Foqa",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.48497,
+          32.13993
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Tel al Mazar",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.216417,
+          31.885136
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Tell en Nasbeh",
+        "description": "another name for Mizpah 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18015,
+          31.832733
+        ]
+      },
+      "properties": {
+        "name": "Ataroth 2 / Nabi Samwil",
+        "description": "another name for Mizpah 3",
+        "styleUrl": "#landpoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/red-circle.png"
+      }
+    }
+  ]
+}

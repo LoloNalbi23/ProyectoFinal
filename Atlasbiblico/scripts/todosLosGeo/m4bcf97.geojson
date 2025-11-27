@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.459225,
+              33.079162
+            ],
+            [
+              35.50477,
+              32.990118
+            ],
+            [
+              35.629417,
+              33.031869
+            ],
+            [
+              35.604591,
+              33.142043
+            ],
+            [
+              35.459225,
+              33.079162
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "between Kedesh-naphtali and Hazor",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.539722,
+          33.028611
+        ]
+      },
+      "properties": {
+        "name": "between Kedesh-naphtali and Hazor",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

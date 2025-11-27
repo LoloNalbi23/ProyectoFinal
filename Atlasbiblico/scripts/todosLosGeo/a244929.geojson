@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.964285,
+              34.566208
+            ],
+            [
+              36.046029,
+              33.531163
+            ],
+            [
+              36.52442,
+              33.365119
+            ],
+            [
+              38.525359,
+              35.919737
+            ],
+            [
+              37.070872,
+              38.224429
+            ],
+            [
+              34.95569,
+              38.268119
+            ],
+            [
+              33.134238,
+              36.026653
+            ],
+            [
+              34.034234,
+              36.192163
+            ],
+            [
+              34.751523,
+              36.73176
+            ],
+            [
+              35.450494,
+              36.441791
+            ],
+            [
+              36.01031,
+              36.752089
+            ],
+            [
+              35.640034,
+              36.327562
+            ],
+            [
+              35.661701,
+              35.587387
+            ],
+            [
+              35.964285,
+              34.566208
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "North",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.171743,
+          36.226691
+        ]
+      },
+      "properties": {
+        "name": "North",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}

@@ -1,8 +1,9 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 
 export default function MapaVista() {
+    const [geoData, setGeoData] = useState([]);
 
     useEffect(() => {
         const map = L.map("map").setView([31.7, 35.2], 7);
@@ -11,32 +12,52 @@ export default function MapaVista() {
             maxZoom: 18,
         }).addTo(map);
 
-        fetch("/data/ejemplo.geojson")   // ← RUTA CORREGIDA
-            .then(res => res.json())
-            .then(data => {
+        async function loadAll() {
+            try {
+                const indexResp = await fetch("/data/index.json");
+                const index = await indexResp.json();
 
-                L.geoJSON(data, {
-                    pointToLayer: (feature, latlng) => {
-                        const icon = L.icon({
-                            iconUrl: feature.properties.icon,
-                            iconSize: [
-                                32 * (feature.properties["icon-scale"] || 1),
-                                32 * (feature.properties["icon-scale"] || 1)
-                            ]
-                        });
-                        return L.marker(latlng, { icon });
-                    },
+                const layers = [];
 
-                    onEachFeature: (feature, layer) => {
-                        layer.bindPopup(`
-                            <b>${feature.properties.name}</b><br>
-                            ${feature.properties.description || ""}
-                        `);
+                for (const categoria of Object.keys(index)) {
+                    const files = index[categoria];
+
+                    for (const file of files) {
+                        const resp = await fetch(`/${file}`);
+                        const geojson = await resp.json();
+
+                        layers.push({ categoria, data: geojson });
+
+                        // dibujar directamente en el mapa
+                        L.geoJSON(geojson, {
+                            pointToLayer: (feature, latlng) => {
+                                const icon = L.icon({
+                                    iconUrl: feature.properties.icon,
+                                    iconSize: [
+                                        32 * (feature.properties["icon-scale"] || 1),
+                                        32 * (feature.properties["icon-scale"] || 1),
+                                    ],
+                                });
+                                return L.marker(latlng, { icon });
+                            },
+                            onEachFeature: (feature, layer) => {
+                                layer.bindPopup(`
+                                    <b>${feature.properties.name}</b><br>
+                                    ${feature.properties.description || ""}
+                                    <br><i>${categoria}</i>
+                                `);
+                            },
+                        }).addTo(map);
                     }
-                }).addTo(map);
+                }
 
-            })
-            .catch(err => console.error("Error cargando el geojson:", err));
+                setGeoData(layers);
+            } catch (err) {
+                console.error("Error cargando geojson:", err);
+            }
+        }
+
+        loadAll();
 
         return () => map.remove();
     }, []);

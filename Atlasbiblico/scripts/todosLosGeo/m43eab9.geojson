@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.701387,
+              33.543868
+            ],
+            [
+              35.795539,
+              33.517671
+            ],
+            [
+              36.637128,
+              34.366186
+            ],
+            [
+              36.405133,
+              34.475965
+            ],
+            [
+              35.701387,
+              33.543868
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Beqaa Valley",
+        "styleUrl": "#region",
+        "fill-opacity": 0.2,
+        "fill": "#333333",
+        "stroke-opacity": 0.5019607843137255,
+        "stroke": "#333333",
+        "stroke-width": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.145278,
+          34.008889
+        ]
+      },
+      "properties": {
+        "name": "Beqaa Valley",
+        "styleUrl": "#landrepresentativepoint",
+        "icon-scale": 0.75,
+        "icon": "https://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+      }
+    }
+  ]
+}
