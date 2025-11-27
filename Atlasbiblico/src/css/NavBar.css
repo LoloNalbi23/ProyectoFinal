@@ -1,0 +1,53 @@
+nav {
+  width: 100%;
+  padding: 15px 25px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  background: rgba(255,255,255,0.1);
+  border-bottom: 1px solid rgba(255,255,255,0.3);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+
+  color: white;
+}
+
+/* Título / Logo */
+nav h2 {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 600;
+  text-shadow: 0 0 4px rgba(0,0,0,0.6);
+}
+
+/* Lista de enlaces */
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilo glass de los links */
+nav ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 16px;
+
+  padding: 8px 14px;
+  border-radius: 10px;
+
+  background: rgba(255,255,255,0.12);
+  border: 1px solid rgba(255,255,255,0.25);
+  backdrop-filter: blur(10px);
+  transition: 0.25s;
+}
+
+/* Hover */
+nav ul li a:hover {
+  background: rgba(255,255,255,0.25);
+  transform: translateY(-2px);
+}
