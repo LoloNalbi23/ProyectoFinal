@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-// import "./Versiculo.css";
+import "../css/Versiculo.css";
 
     export default function Versiculo () {
         const [conclusion, setConclusion] = useState("")

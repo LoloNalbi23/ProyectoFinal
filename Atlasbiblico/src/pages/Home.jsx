@@ -1,9 +1,10 @@
-    import Versiculo from "./Versiculo";
-    // import "./Home.css";
+import "../css/Home.css";
+import { Link } from "react-router-dom";
+import React from "react";
 
-        export default function Home() {
-    return (
-        <div className="home-container">
+export default function Home() {
+  return (
+    <div className="home-container">
 
       <div className="home-sections">
 
@@ -14,7 +15,7 @@
           <Link to="/visualizaciones" className="item">📊 Visualizaciones</Link>
           <Link to="/exportar" className="item">📤 Exportar</Link>
           <Link to="/devocional" className="item">🕊 Devocional</Link>
-          <Link to="/versiculo" className="item">✨ Versículo del día</Link>
+          <Link to="/votd" className="item">✨ Versículo del día</Link>
         </div>
 
         <div className="map-container">
@@ -27,7 +28,7 @@
       </div>
 
     </div>
-    );
-        }
+  );
+}
 
 

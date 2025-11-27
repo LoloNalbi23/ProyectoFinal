@@ -1,4 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import ReactDOM from "react-dom/client";
+import React from "react";
 import Home from "./pages/Home";
 import Versiculo from "./pages/Versiculo";
 // import BibleView from "../pages/BibleView";
@@ -6,11 +8,12 @@ import Versiculo from "./pages/Versiculo";
 // import Conexiones from "../pages/Conexiones";
 // import MapView from "../pages/MapView";
 import NavBar from "./components/NavBar";
+import "./index.css"
 
-const AppRouter = () => {
+const Main = () => {
   return (
     <Router>
-        <NavBar />
+      <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
         {/* <Route path="/biblia/:libro/:capitulo" element={<BibleView />} />
@@ -23,4 +26,10 @@ const AppRouter = () => {
   );
 };
 
-export default AppRouter;
+export default Main;
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+  <React.StrictMode>
+    <Main />
+  </React.StrictMode>
+)

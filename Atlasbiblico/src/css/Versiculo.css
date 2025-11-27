@@ -2,11 +2,10 @@ body {
             margin: 0;
             padding: 40px;
             font-family: "Poppins", sans-serif;
-            color: white;
-            background: url('https://thumbs.dreamstime.com/b/cruz-en-la-puesta-del-sol-crucifixi%C3%B3n-de-jesus-christ-127995266.jpg')
+            color: rgb(0, 0, 0);
+            background-image: url('https://thumbs.dreamstime.com/b/cruz-en-la-puesta-del-sol-crucifixi%C3%B3n-de-jesus-christ-127995266.jpg')
             no-repeat center center fixed;
             background-size: cover;
-            backdrop-filter: blur(3px);
         }
 
         h1 {
