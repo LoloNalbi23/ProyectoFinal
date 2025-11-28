@@ -1,5 +1,5 @@
 import MapaVista from '../components/MapaVista';
-import "../css/Home.css";
+import "../css/MapaVista.css";
 
 
 export default function Mapview (){
@@ -74,7 +74,7 @@ const libros = [
 
     return (
         <div>
-            <div className="sidebar">
+            {/* <div className="sidebar">
                 <input 
                     list="opciones" 
                     placeholder="Buscar..."
@@ -85,10 +85,10 @@ const libros = [
                         <option key={libro.id} value={libro.name} />
                     ))}
                 </datalist>
-            </div>
+            </div> */}
             <section className="map-section">
                 <h2>Mapa Bíblico</h2>
-                <div>
+                <div className='mapa'>
                     <MapaVista />
                 </div>
             </section>

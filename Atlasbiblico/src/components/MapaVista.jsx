@@ -78,15 +78,10 @@ export default function MapaVista() {
     <div
         ref={containerRef}
         style={{
-            width: "60vw",      // ocupa todo el ancho de la ventana
-            maxWidth: "100vw",   // no permitir restricciones del padre
+            width: "100%",      // ocupa el 100% del contenedor padre
             height: "80vh",
-            margin: 0,
-            padding: 0,
-            position: "relative",
-            left: "80%",
-            right: "20%", // truco para forzar ancho total
-            marginRight: "-50vw"
+            margin: "0 auto",   // centrado horizontal
+            position: "relative"
         }}
     />
 );
