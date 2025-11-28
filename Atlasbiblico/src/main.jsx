@@ -3,12 +3,12 @@ import ReactDOM from "react-dom/client";
 import React from "react";
 import Home from "./pages/Home";
 import Versiculo from "./pages/Versiculo";
-// import BibleView from "../pages/BibleView";
+import NavBar from "./components/NavBar";
+import Mapview from "./pages/Mapview";
+import "./index.css"
 // import Personajes from "../pages/Personajes";
 // import Conexiones from "../pages/Conexiones";
 // import MapView from "../pages/MapView";
-import NavBar from "./components/NavBar";
-import "./index.css"
 
 // import AppRouter from "./AppRouter";
 
@@ -22,12 +22,13 @@ const Main = () => {
     <Router>
       <NavBar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        {/* <Route path="/biblia/:libro/:capitulo" element={<BibleView />} />
-        <Route path="/mapa/:lugar" element={<MapView />} />
+        <Route path="/" element={<Home />} /> 
+        <Route path="/map" element={<Mapview />} />
+        {/*<Route path="/mapa/:lugar" element={<MapView />} />
         <Route path="/buscar/:query" element={<Personajes />} />
         <Route path="/favoritos" element={<Conexiones />} /> */}
         <Route path="votd" element={<Versiculo />} />
+        
       </Routes>
     </Router>
   );

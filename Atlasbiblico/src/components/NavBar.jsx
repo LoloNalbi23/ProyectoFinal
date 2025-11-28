@@ -11,8 +11,7 @@ export default class NavBar extends Component {
             <ul>
                 <li><Link to="/">Inicio</Link></li>
                 <li><Link to="/votd">Versículo del día</Link></li>
-                <li><Link to="/">Mapa</Link></li>
-                <li><Link to="/">En proceso</Link></li>
+                <li><Link to="/map">Mapa</Link></li>
             </ul>
         </nav>
         )
