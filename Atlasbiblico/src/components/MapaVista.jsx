@@ -1,116 +1,94 @@
-import { useEffect, useState } from "react";
+// MapaVista.jsx
+import React, { useEffect, useRef } from "react";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
-import "../css/MapaVista.css";
 
 export default function MapaVista() {
-    const [map, setMap] = useState(null);
-    const [libros, setLibros] = useState([]);
-    const [libroSeleccionado, setLibroSeleccionado] = useState("");
-    const [lugares, setLugares] = useState([]);
-    const [layerGroup, setLayerGroup] = useState(null);
+    const containerRef = useRef(null); // referencia DOM del div del mapa
+    const mapRef = useRef(null);       // instancia de L.Map
+    const geojsonRef = useRef(null);   // capa GeoJSON para poder removerla
 
-    // Inicializar mapa
     useEffect(() => {
-        const mapInstance = L.map("map").setView([31.7, 35.2], 7);
+        // Si ya existe una instancia, no crear otra
+        if (mapRef.current) return;
+
+        // Crear mapa usando el nodo DOM (no por id string)
+        mapRef.current = L.map(containerRef.current, {
+            center: [31.5, 35.5],
+            zoom: 7,
+            preferCanvas: true
+        });
 
         L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
             maxZoom: 18,
-            attribution: '© OpenStreetMap'
-        }).addTo(mapInstance);
+            attribution: "&copy; OpenStreetMap contributors"
+        }).addTo(mapRef.current);
 
-        const group = L.layerGroup().addTo(mapInstance);
-        setLayerGroup(group);
-        setMap(mapInstance);
-
-        return () => mapInstance.remove();
-    }, []);
-
-    // Cargar lista de libros
-    useEffect(() => {
-        fetch("/data/libros.json")
-            .then(res => res.json())
-            .then(data => setLibros(data))
-            .catch(err => console.error("Error cargando libros:", err));
-    }, []);
-
-    // Cargar lugares cuando se selecciona un libro
-    useEffect(() => {
-        if (!libroSeleccionado) {
-            setLugares([]);
-            return;
-        }
-
-        fetch("/data/lugares-por-libro.json")
+        // Cargar GeoJSON
+        fetch("/data/all.geojson")
             .then(res => res.json())
             .then(data => {
-                setLugares(data[libroSeleccionado] || []);
+                // Si ya hay una capa previa, removerla
+                if (geojsonRef.current) {
+                    geojsonRef.current.remove();
+                    geojsonRef.current = null;
+                }
+
+                geojsonRef.current = L.geoJSON(data, {
+                    pointToLayer: (feature, latlng) =>
+                        L.circleMarker(latlng, { radius: 4, fillOpacity: 0.8 }),
+                    style: feature => ({
+                        weight: 1,
+                        opacity: 0.7
+                    }),
+                    onEachFeature: (feature, layer) => {
+                        const name = feature.properties?.name || "Sin nombre";
+                        const desc = feature.properties?.description || "";
+                        layer.bindPopup(`<strong>${name}</strong><br/>${desc}`);
+                    }
+                }).addTo(mapRef.current);
+
+                // Ajustar vista al bounds si hay features
+                try {
+                    const bounds = geojsonRef.current.getBounds();
+                    if (bounds.isValid()) mapRef.current.fitBounds(bounds, { padding: [20, 20] });
+                } catch (e) {
+                    // ignore if no bounds
+                }
             })
-            .catch(err => console.error("Error cargando lugares:", err));
-    }, [libroSeleccionado]);
-
-    // Mostrar marcadores en el mapa
-    useEffect(() => {
-        if (!layerGroup || !lugares.length) {
-            if (layerGroup) layerGroup.clearLayers();
-            return;
-        }
-
-        layerGroup.clearLayers();
-
-        lugares.forEach(lugar => {
-            lugar.coordenadas.forEach(coord => {
-                const marker = L.marker([coord.lat, coord.lng], {
-                    icon: L.icon({
-                        iconUrl: "https://maps.google.com/mapfiles/kml/paddle/red-circle.png",
-                        iconSize: [24, 24]
-                    })
-                });
-
-                marker.bindPopup(`
-                    <b>${lugar.nombre}</b><br>
-                    <i>Libro: ${libroSeleccionado}</i>
-                `);
-
-                marker.addTo(layerGroup);
+            .catch(err => {
+                console.error("Error cargando all.geojson:", err);
             });
-        });
 
-        // Ajustar vista a los marcadores
-        if (lugares.length > 0) {
-            const bounds = L.latLngBounds(
-                lugares.flatMap(l => l.coordenadas.map(c => [c.lat, c.lng]))
-            );
-            map.fitBounds(bounds, { padding: [50, 50] });
-        }
-    }, [lugares, layerGroup, map, libroSeleccionado]);
+        // Cleanup: remover capa y mapa al desmontar
+        return () => {
+            if (geojsonRef.current) {
+                geojsonRef.current.remove();
+                geojsonRef.current = null;
+            }
+            if (mapRef.current) {
+                mapRef.current.remove(); // libera el contenedor para evitar "already initialized"
+                mapRef.current = null;
+            }
+        };
+    }, []); // effect solo en mount/unmount
 
+    // Nuevo estilo del contenedor → ancho 80% centrado
     return (
-        <div className="mapa-container">
-            <div className="mapa-controles">
-                <label htmlFor="libro-select">Filtrar por libro:</label>
-                <select
-                    id="libro-select"
-                    value={libroSeleccionado}
-                    onChange={(e) => setLibroSeleccionado(e.target.value)}
-                    className="libro-select"
-                >
-                    <option value="">-- Selecciona un libro --</option>
-                    {libros.map(libro => (
-                        <option key={libro} value={libro}>
-                            {libro}
-                        </option>
-                    ))}
-                </select>
-                
-                {libroSeleccionado && (
-                    <div className="info-lugares">
-                        {lugares.length} lugares en {libroSeleccionado}
-                    </div>
-                )}
-            </div>
+    <div
+        ref={containerRef}
+        style={{
+            width: "60vw",      // ocupa todo el ancho de la ventana
+            maxWidth: "100vw",   // no permitir restricciones del padre
+            height: "80vh",
+            margin: 0,
+            padding: 0,
+            position: "relative",
+            left: "80%",
+            right: "20%", // truco para forzar ancho total
+            marginRight: "-50vw"
+        }}
+    />
+);
 
-            <div id="map" style={{ height: "500px", width: "100%" }}></div>
-        </div>
-    );
 }

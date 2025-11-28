@@ -82,7 +82,7 @@ const libros = [
                 />
                 <datalist id="opciones">
                     {libros.map((libro) => (
-                        <option key={libro.value} value={libro.name} />
+                        <option key={libro.id} value={libro.name} />
                     ))}
                 </datalist>
             </div>
