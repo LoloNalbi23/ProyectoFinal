@@ -1,12 +1,8 @@
 body {
-            margin: 0;
-            padding: 40px;
-            font-family: "Poppins", sans-serif;
-            color: white;
-            background: url('https://thumbs.dreamstime.com/b/cruz-en-la-puesta-del-sol-crucifixi%C3%B3n-de-jesus-christ-127995266.jpg')
-                        no-repeat center center fixed;
-            background-size: cover;
-            backdrop-filter: blur(3px);
+    margin: 0;
+    padding: 40px;
+    font-family: "Poppins", sans-serif;
+    color: rgb(0, 0, 0);
         }
 
         h1 {
@@ -23,7 +19,6 @@ body {
         }
 
         /* Caja estilo glass */
-        .versiculo-box,
         .conclusion-box textarea {
             background: rgba(0, 0, 0, 0.55);
             border: 1px solid rgba(255,255,255,0.2);
@@ -32,7 +27,7 @@ body {
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
         }
 
-        .versiculo-box {
+        #dailyVersesWrapper {
             padding: 25px;
             width: 50%;
             min-height: 270px;
@@ -44,13 +39,6 @@ body {
         .versiculo-texto {
             font-size: 22px;
             line-height: 1.5;
-        }
-
-        .versiculo-cita {
-            margin-top: 25px;
-            font-size: 24px;
-            font-weight: bold;
-            text-align: right;
         }
 
         .conclusion-box {
@@ -72,3 +60,46 @@ body {
         .conclusion-box textarea::placeholder {
             color: rgba(255, 255, 255, 0.6);
         }
+        /* === Ajustes para que DailyVerses funcione dentro de tu caja glass === */
+
+/* Wrapper del widget */
+#dailyVersesWrapper {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 8px;
+    padding: 25px;
+    width: 50%;
+    min-height: 270px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: rgba(0, 0, 0, 0.55);
+    border: 1px solid rgba(255,255,255,0.2);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+.dailyVerses * {
+    color: #ffffff !important;
+}
+
+.dailyVerses .bibleText {
+    font-size: 24px !important;
+    line-height: 1.5 !important;
+    text-shadow: 2px 2px 4px rgb(255, 255, 255) !important;
+    margin-bottom: 12px !important;
+}
+
+.dailyVerses .bibleVerse {
+    font-size: 18px !important;
+    text-align: right !important;
+    font-style: italic !important;
+}
+
+/* Elimina el estilo de link */
+.dailyVerses a {
+    color: inherit !important;
+    text-decoration: none !important;
+    pointer-events: none; /* Opcional: desactiva el click */
+}
